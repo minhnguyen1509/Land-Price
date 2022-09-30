@@ -1,0 +1,590 @@
+﻿,stt,tinh,quan_huyen,xa_phuong,duong_pho,kc_duong_chinh,min_dorong_ngo,dien_tich,mat_tien,so_mattien,thoi_diem_hieu_luc,district,ward,REF_TINH_CODE,REF_HUYEN_CODE,REF_XA_CODE,don_gia1
+0,69827,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Ngô Thì Nhậm,Phố Huế,0,13,44,4.5,1,2022-03-17 00:00:00,hai bà trưng,hai bà trưng_ngô thì nhậm,148873,149556,195324,0.626354545
+1,69830,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Ngô Thì Nhậm,Phố Huế,0,13,44,4.5,1,2022-03-18 00:00:00,hai bà trưng,hai bà trưng_ngô thì nhậm,148873,149556,195324,0.626354545
+2,69838,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Ngô Thì Nhậm,Phố Huế,0,13,44,4.5,1,2022-03-15 00:00:00,hai bà trưng,hai bà trưng_ngô thì nhậm,148873,149556,195324,0.621354545
+3,69839,Thành phố Hà Nội,Huyện Phúc Thọ,Xã Tam Hiệp,Đất ở khu dân cư nông thôn (Xã Tam Hiệp),200,2.1,86,7.6,2,2022-03-23 00:00:00,phúc thọ,phúc thọ_tam hiệp,148873,151998,152056,0.019132333
+4,69847,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Châu Can,Đất ở khu dân cư nông thôn (Xã Châu Can),900,4,120,5,1,2022-04-15 00:00:00,phú xuyên,phú xuyên_châu can,148873,151880,151952,0.009166667
+5,69848,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Châu Can,Đất ở khu dân cư nông thôn (Xã Châu Can),900,4,120,5,1,2022-04-15 00:00:00,phú xuyên,phú xuyên_châu can,148873,151880,151952,0.009166667
+6,85559,Thành phố Hà Nội,Huyện Gia Lâm,Xã Ninh Hiệp,Đường Ninh Hiệp,100,2.7,126,7,1,2022-03-17 00:00:00,gia lâm,gia lâm_ninh hiệp,148873,151480,151554,0.087301587
+7,85560,Thành phố Hà Nội,Huyện Gia Lâm,Xã Ninh Hiệp,Đường Ninh Hiệp,60,2.6,116,12.4,1,2022-03-17 00:00:00,gia lâm,gia lâm_ninh hiệp,148873,151480,151554,0.08534474
+8,85561,Thành phố Hà Nội,Quận Hà Đông,Phường Vạn Phúc,Đường Ngô Quyền,80,10.5,74.2,5.5,1,2022-03-17 00:00:00,hà đông,hà đông_vạn phúc,148873,149779,195402,0.100136166
+9,85642,Thành phố Hà Nội,Huyện Thường Tín,Thị trấn Thường Tín,Nguyễn Du,100,17.5,75.50000001,5,1,2022-03-22 00:00:00,thường tín,thường tín_thường tín,148873,152587,152588,0.074310365
+10,85647,Thành phố Hà Nội,Quận Thanh Xuân,Phường Thanh Xuân Trung,NGUYỄN HUY TƯỞNG,100,6,111,5.5,1,2022-03-21 00:00:00,thanh xuân,thanh xuân_thanh xuân trung,148873,150965,195358,0.179459459
+11,85682,Thành phố Hà Nội,Huyện Thanh Trì,Xã Thanh Liệt,Kim Giang,200,6,60,4,1,2022-04-12 00:00:00,thanh trì,thanh trì_thanh liệt,148873,152474,195380,0.083166667
+12,85683,Thành phố Hà Nội,Huyện Thanh Trì,Xã Thanh Liệt,Kim Giang,200,5.5,40,3.34,1,2022-04-12 00:00:00,thanh trì,thanh trì_thanh liệt,148873,152474,195380,0.086734903
+13,85725,Thành phố Hà Nội,Huyện Đan Phượng,Xã Song Phượng,Đường Quốc lộ 32,620,10,67.09999999,5,1,2022-04-19 00:00:00,đan phượng,đan phượng_song phượng,148873,151297,151345,0.059506173
+14,100512,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Quang Trung,Chùa Thông,0,20,168,6.5,1,2022-03-18 00:00:00,sơn tây,sơn tây_quang trung,148873,150784,195419,0.055
+15,100513,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Quang Trung,Chùa Thông,0,20,100,5,1,2022-03-18 00:00:00,sơn tây,sơn tây_quang trung,148873,150784,195419,0.055
+16,100514,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Quang Trung,Chùa Thông,0,20,100,5,1,2022-03-18 00:00:00,sơn tây,sơn tây_quang trung,148873,150784,195419,0.055
+17,100515,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Quang Trung,Chùa Thông,0,20,86,4.3,1,2022-03-18 00:00:00,sơn tây,sơn tây_quang trung,148873,150784,195419,0.055
+18,100516,Thành phố Hà Nội,Quận Cầu Giấy,Phường Dịch Vọng Hậu,Trần Quốc Vượng,120,3,78,5,1,2022-03-17 00:00:00,cầu giấy,cầu giấy_dịch vọng hậu,148873,149252,195295,0.124487179
+19,100517,Thành phố Hà Nội,Quận Cầu Giấy,Phường Dịch Vọng Hậu,Trần Quốc Vượng,100,3,40,3.8,1,2022-03-17 00:00:00,cầu giấy,cầu giấy_dịch vọng hậu,148873,149252,195295,0.121875
+20,100523,Thành phố Hà Nội,Quận Cầu Giấy,Phường Dịch Vọng Hậu,Trần Quốc Vượng,180,2.3,40,4,1,2022-03-17 00:00:00,cầu giấy,cầu giấy_dịch vọng hậu,148873,149252,195295,0.102575
+21,100531,Thành phố Hà Nội,Quận Thanh Xuân,Phường Thanh Xuân Trung,Nguyễn Trãi,200,1.5,30,4,1,2022-03-18 00:00:00,thanh xuân,thanh xuân_thanh xuân trung,148873,150965,195358,0.082933333
+22,100532,Thành phố Hà Nội,Quận Thanh Xuân,Phường Thanh Xuân Trung,Nguyễn Trãi,200,2,31,3,1,2022-03-18 00:00:00,thanh xuân,thanh xuân_thanh xuân trung,148873,150965,195358,0.080645161
+23,100539,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Quang Trung,Thuần Nghệ,0,4.5,52,3.9,1,2022-03-18 00:00:00,sơn tây,sơn tây_quang trung,148873,150784,195419,0.034429231
+24,100540,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Quang Trung,Thuần Nghệ,0,4.5,75,5,1,2022-03-18 00:00:00,sơn tây,sơn tây_quang trung,148873,150784,195419,0.033
+25,100541,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Quang Trung,Thuần Nghệ,0,4.5,75,5,1,2022-03-18 00:00:00,sơn tây,sơn tây_quang trung,148873,150784,195419,0.033
+26,100562,Thành phố Hà Nội,Huyện Phúc Thọ,Xã Tam Hiệp,Đất ở khu dân cư nông thôn (Xã Tam Hiệp),300,3.5,65.8,6.7,1,2022-03-17 00:00:00,phúc thọ,phúc thọ_tam hiệp,148873,151998,152056,0.03658
+27,100569,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên thôn,200,2.3,119,12,1,2022-03-18 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.012125972
+28,100596,Thành phố Hà Nội,Huyện Phúc Thọ,Xã Thanh Đa,Đường đê,400,5,142,5.4,1,2022-03-21 00:00:00,phúc thọ,phúc thọ_thanh đa,148873,151998,152060,0.017322064
+29,100604,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Phạm Đình Hổ,Hàng Chuối,0,15,120,8,1,2022-03-21 00:00:00,hai bà trưng,hai bà trưng_phạm đình hổ,148873,149556,195322,0.277666667
+30,100605,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Phạm Đình Hổ,Hàng Chuối,0,15,66.5,4.38,2,2022-03-21 00:00:00,hai bà trưng,hai bà trưng_phạm đình hổ,148873,149556,195322,0.309254731
+31,100635,Thành phố Hà Nội,Quận Long Biên,Phường Phúc Lợi,Phúc Lợi,350,2,50,5,1,2022-03-21 00:00:00,long biên,long biên_phúc lợi,148873,150530,195284,0.04
+32,100636,Thành phố Hà Nội,Quận Long Biên,Phường Phúc Lợi,Phúc Lợi,320,2.5,35,3.5,1,2022-03-21 00:00:00,long biên,long biên_phúc lợi,148873,150530,195284,0.042857143
+33,100660,Thành phố Hà Nội,Quận Đống Đa,Phường Trung Liệt,Tây Sơn,100,4,40,4.1,1,2022-03-15 00:00:00,đống đa,đống đa_trung liệt,148873,149387,195312,0.157675
+34,100661,Thành phố Hà Nội,Quận Đống Đa,Phường Trung Liệt,Tây Sơn,100,4,76.5,3.44,1,2022-03-15 00:00:00,đống đa,đống đa_trung liệt,148873,149387,195312,0.150503237
+35,100690,Thành phố Hà Nội,Huyện Hoài Đức,Xã Lại Yên,Lại Yên,280,4,128,13.36,2,2022-03-15 00:00:00,hoài đức,hòai đức_lại yên,148873,151598,151657,0.033712936
+36,100694,Thành phố Hà Nội,Quận Hoàng Mai,Phường Tương Mai,Hoàng Mai,150,2.2,45,3.7,1,2022-03-16 00:00:00,hoàng mai,hòang mai_tương mai,148873,150379,195344,0.0653
+37,100695,Thành phố Hà Nội,Quận Hoàng Mai,Phường Tương Mai,Hoàng Mai,100,2.2,31,5.4,1,2022-03-16 00:00:00,hoàng mai,hòang mai_tương mai,148873,150379,195344,0.074435484
+38,100696,Thành phố Hà Nội,Quận Hoàng Mai,Phường Tương Mai,Hoàng Mai,100,2.2,40.8,4.02,1,2022-03-16 00:00:00,hoàng mai,hòang mai_tương mai,148873,150379,195344,0.065619639
+39,100720,Thành phố Hà Nội,Quận Hà Đông,Phường Phú Lương,Đường Phú Lương,150,11.5,62.5,5,1,2022-03-15 00:00:00,hà đông,hà đông_phú lương,148873,149779,195412,0.0728
+40,100721,Thành phố Hà Nội,Quận Hà Đông,Phường Phú Lương,Đường Phú Lương,150,11.5,62.5,5,1,2022-03-15 00:00:00,hà đông,hà đông_phú lương,148873,149779,195412,0.0704
+41,100722,Thành phố Hà Nội,Quận Hà Đông,Phường Phú Lương,Đường Phú Lương,150,11.5,62.5,5,1,2022-03-15 00:00:00,hà đông,hà đông_phú lương,148873,149779,195412,0.072
+42,100723,Thành phố Hà Nội,Quận Hà Đông,Phường Phú Lương,Đường Phú Lương,170,11.5,62.50000001,5,1,2022-03-15 00:00:00,hà đông,hà đông_phú lương,148873,149779,195412,0.071733333
+43,100732,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Vĩnh Tuy,Dương Văn Bé,200,3.5,59,7.68,2,2022-03-15 00:00:00,hai bà trưng,hai bà trưng_vĩnh tuy,148873,149556,195334,0.090508475
+44,100733,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Vĩnh Tuy,Dương Văn Bé,200,2.8,53,4,1,2022-03-15 00:00:00,hai bà trưng,hai bà trưng_vĩnh tuy,148873,149556,195334,0.079803774
+45,100743,Thành phố Hà Nội,Huyện Thanh Trì,Xã Đông Mỹ,Đường Đông Mỹ (từ cuối đường Ngũ Hiệp đến hết đường Đông Mỹ),300,3,42,3.6,1,2022-03-16 00:00:00,thanh trì,thanh trì_đông mỹ,148873,152474,152561,0.027857143
+46,100756,Thành phố Hà Nội,Quận Cầu Giấy,Phường Nghĩa Đô,Võ Chí Công,160,1.5,35,3.5,1,2022-03-15 00:00:00,cầu giấy,cầu giấy_nghĩa đô,148873,149252,195291,0.067892857
+47,100761,Thành phố Hà Nội,Huyện Quốc Oai,Thị trấn Quốc Oai,Phố Huyện,120,12,80,5,1,2022-03-15 00:00:00,quốc oai,quốc oai_quốc oai,148873,152080,152081,0.03780697
+48,100768,Thành phố Hà Nội,Huyện Thanh Trì,Xã Đông Mỹ,Đường Đông Mỹ (từ cuối đường Ngũ Hiệp đến hết đường Đông Mỹ),300,2,60,3,1,2022-03-16 00:00:00,thanh trì,thanh trì_đông mỹ,148873,152474,152561,0.020833333
+49,100770,Thành phố Hà Nội,Huyện Quốc Oai,Xã Cấn Hữu,Đường liên xã Cấn Hữu,20,5,115,5,2,2022-03-15 00:00:00,quốc oai,quốc oai_cấn hữu,148873,152080,152151,0.013043478
+50,100771,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên thôn,50,3.6,108,10.71,1,2022-03-15 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.02904
+51,100772,Thành phố Hà Nội,Huyện Gia Lâm,Xã Kim Sơn,Quốc lộ 17,500,4,58,4.3,1,2022-03-15 00:00:00,gia lâm,gia lâm_kim sơn,148873,151480,151580,0.036206897
+52,100773,Thành phố Hà Nội,Huyện Gia Lâm,Xã Kim Sơn,Quốc lộ 17,450,4,100,5,1,2022-03-15 00:00:00,gia lâm,gia lâm_kim sơn,148873,151480,151580,0.035
+53,100774,Thành phố Hà Nội,Huyện Gia Lâm,Xã Kim Sơn,Quốc lộ 17,700,4.5,60.4,4.4,2,2022-03-15 00:00:00,gia lâm,gia lâm_kim sơn,148873,151480,151580,0.035347682
+54,100775,Thành phố Hà Nội,Huyện Gia Lâm,Xã Kim Sơn,Quốc lộ 17,500,4.4,64,4.7,1,2022-03-15 00:00:00,gia lâm,gia lâm_kim sơn,148873,151480,151580,0.035040004
+55,100813,Thành phố Hà Nội,Quận Long Biên,Phường Ngọc Thụy,Phố Ngọc Thụy,250,2,36,3.7,1,2022-03-15 00:00:00,long biên,long biên_ngọc thụy,148873,150530,195278,0.065555556
+56,100857,Thành phố Hà Nội,Quận Ba Đình,Phường Liễu Giai,Đội Cấn,150,2,38,5,1,2022-03-17 00:00:00,ba đình,ba đình_liễu giai,148873,148874,195242,0.077842105
+57,100858,Thành phố Hà Nội,Quận Ba Đình,Phường Liễu Giai,Đội Cấn,185,2,46,3,1,2022-03-17 00:00:00,ba đình,ba đình_liễu giai,148873,148874,195242,0.07799122
+58,100869,Thành phố Hà Nội,Huyện Thường Tín,Xã Duyên Thái,Cao tốc Pháp Vân,100,5,58,5,1,2022-03-15 00:00:00,thường tín,thường tín_duyên thái,148873,152587,152641,0.037931034
+59,100880,Thành phố Hà Nội,Quận Long Biên,Phường Thượng Thanh,Thượng Thanh,200,2.4,53,3.5,1,2022-03-15 00:00:00,long biên,long biên_thượng thanh,148873,150530,195277,0.060377358
+60,100881,Thành phố Hà Nội,Huyện Đan Phượng,Thị trấn Phùng,Phố Phượng Trì,0,5.5,100,5,1,2022-03-15 00:00:00,đan phượng,đan phượng_phùng,148873,151297,151298,0.0582
+61,100882,Thành phố Hà Nội,Huyện Đan Phượng,Thị trấn Phùng,Phố Phượng Trì,0,5.5,100,5,1,2022-03-15 00:00:00,đan phượng,đan phượng_phùng,148873,151297,151298,0.0582
+62,100883,Thành phố Hà Nội,Huyện Đan Phượng,Thị trấn Phùng,Phố Phượng Trì,0,5.5,100,5,1,2022-03-15 00:00:00,đan phượng,đan phượng_phùng,148873,151297,151298,0.0582
+63,100884,Thành phố Hà Nội,Huyện Đan Phượng,Thị trấn Phùng,Phố Phượng Trì,0,5.5,315,14.5,1,2022-03-15 00:00:00,đan phượng,đan phượng_phùng,148873,151297,151298,0.04947
+64,100885,Thành phố Hà Nội,Huyện Thường Tín,Xã Duyên Thái,Cao tốc Pháp Vân,450,4,77,4.2,1,2022-03-15 00:00:00,thường tín,thường tín_duyên thái,148873,152587,152641,0.029920677
+65,100890,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Thanh Nhàn,Trần Khát Chân,130,1.8,32,4,1,2022-03-15 00:00:00,hai bà trưng,hai bà trưng_thanh nhàn,148873,149556,195330,0.067710938
+66,100899,Thành phố Hà Nội,Huyện Thanh Trì,Xã Thanh Liệt,Kim Giang,270,2,55,6.2,1,2022-03-15 00:00:00,thanh trì,thanh trì_thanh liệt,148873,152474,195380,0.053454545
+67,100900,Thành phố Hà Nội,Huyện Thanh Trì,Xã Thanh Liệt,Kim Giang,210,1.5,31.6,3.1,1,2022-03-15 00:00:00,thanh trì,thanh trì_thanh liệt,148873,152474,195380,0.052520633
+68,100954,Thành phố Hà Nội,Huyện Mê Linh,Xã Đại Thịnh,Đất ở khu dân cư nông thôn (Xã Đại Thịnh),550,8,69,4.2,1,2022-03-15 00:00:00,mê linh,mê linh_đại thịnh,148873,151684,151751,0.04
+69,100955,Thành phố Hà Nội,Huyện Mê Linh,Xã Đại Thịnh,Đất ở khu dân cư nông thôn (Xã Đại Thịnh),505,8,100,6,1,2022-03-15 00:00:00,mê linh,mê linh_đại thịnh,148873,151684,151751,0.04
+70,100956,Thành phố Hà Nội,Huyện Mê Linh,Xã Đại Thịnh,Đất ở khu dân cư nông thôn (Xã Đại Thịnh),521,8,99,6,1,2022-03-15 00:00:00,mê linh,mê linh_đại thịnh,148873,151684,151751,0.04040404
+71,100957,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Thanh Nhàn,Trần Khát Chân,0,30,50,6,2,2022-03-15 00:00:00,hai bà trưng,hai bà trưng_thanh nhàn,148873,149556,195330,0.427196
+72,100958,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Thanh Nhàn,Trần Khát Chân,0,30,57.5,3.7,3,2022-03-15 00:00:00,hai bà trưng,hai bà trưng_thanh nhàn,148873,149556,195330,0.389401739
+73,100959,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Thanh Nhàn,Trần Khát Chân,0,30,58.2,3.65,1,2022-03-15 00:00:00,hai bà trưng,hai bà trưng_thanh nhàn,148873,149556,195330,0.368193926
+74,101012,Thành phố Hà Nội,Huyện Đông Anh,Xã Bắc Hồng,Đường Nam Hồng,1900,4,56,4,1,2022-03-15 00:00:00,đông anh,đông anh_bắc hồng,148873,151363,151458,0.024107143
+75,101013,Thành phố Hà Nội,Huyện Đông Anh,Xã Bắc Hồng,Đường Nam Hồng,1850,3,102,6,1,2022-03-15 00:00:00,đông anh,đông anh_bắc hồng,148873,151363,151458,0.019117647
+76,101014,Thành phố Hà Nội,Huyện Đông Anh,Xã Bắc Hồng,Đường Nam Hồng,1750,3,63,5.03,2,2022-03-15 00:00:00,đông anh,đông anh_bắc hồng,148873,151363,151458,0.024603175
+77,101023,Thành phố Hà Nội,Huyện Ứng Hòa,Xã Kim Đường,Đường Minh Đức - Đại Cường: Đoạn giáp đường 428 đến hết địa phận huyện Ứng Hòa,0,7,108,6,1,2022-03-15 00:00:00,ứng hòa,ứng hòa_kim đường,148873,152697,152776,0.03
+78,101024,Thành phố Hà Nội,Huyện Ứng Hòa,Xã Kim Đường,Đường Minh Đức - Đại Cường: Đoạn giáp đường 428 đến hết địa phận huyện Ứng Hòa,0,7,82,5,1,2022-03-15 00:00:00,ứng hòa,ứng hòa_kim đường,148873,152697,152776,0.028658537
+79,101025,Thành phố Hà Nội,Huyện Ứng Hòa,Xã Kim Đường,Đường Minh Đức - Đại Cường: Đoạn giáp đường 428 đến hết địa phận huyện Ứng Hòa,0,7,82,5,1,2022-03-15 00:00:00,ứng hòa,ứng hòa_kim đường,148873,152697,152776,0.03
+80,101026,Thành phố Hà Nội,Huyện Ứng Hòa,Xã Kim Đường,Đường Minh Đức - Đại Cường: Đoạn giáp đường 428 đến hết địa phận huyện Ứng Hòa,0,7,84.10000002,6.01,1,2022-03-15 00:00:00,ứng hòa,ứng hòa_kim đường,148873,152697,152776,0.030721545
+81,101046,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường liên thôn,0,4.5,65,3.92,1,2022-03-15 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.045
+82,101047,Thành phố Hà Nội,Huyện Mê Linh,Xã Đại Thịnh,Đất ở khu dân cư nông thôn (Xã Đại Thịnh),450,8,99,6,1,2022-03-15 00:00:00,mê linh,mê linh_đại thịnh,148873,151684,151751,0.041872054
+83,101106,Thành phố Hà Nội,Huyện Hoài Đức,Xã Vân Canh,An Trai,100,1.7,31.6,3.04,2,2022-03-15 00:00:00,hoài đức,hòai đức_vân canh,148873,151598,195427,0.04146606
+84,101118,Thành phố Hà Nội,Quận Hà Đông,Phường Phú Lương,Quốc lộ 21B,200,11.5,50,5,1,2022-03-15 00:00:00,hà đông,hà đông_phú lương,148873,149779,195412,0.08
+85,101119,Thành phố Hà Nội,Quận Hà Đông,Phường Phú Lương,Nguyễn Trực,200,11.5,50,5,1,2022-03-15 00:00:00,hà đông,hà đông_phú lương,148873,149779,195412,0.08
+86,101178,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Phú Yên,Đất ở khu dân cư nông thôn (Xã Phú Yên),300,8,80,5,1,2022-03-15 00:00:00,phú xuyên,phú xuyên_phú yên,148873,151880,151956,0.017
+87,101179,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Phú Yên,Đất ở khu dân cư nông thôn (Xã Phú Yên),400,8,94.88999997,4.5,1,2022-03-15 00:00:00,phú xuyên,phú xuyên_phú yên,148873,151880,151956,0.016357778
+88,101183,Thành phố Hà Nội,Huyện Mê Linh,Thị trấn Quang Minh,Đất tổ dân phố TT Quang Minh,450,3.5,85,4.5,1,2022-03-15 00:00:00,mê linh,mê linh_quang minh,148873,151684,151694,0.025294118
+89,101184,Thành phố Hà Nội,Huyện Mê Linh,Thị trấn Quang Minh,Đất tổ dân phố TT Quang Minh,405,3.5,76,4.26,1,2022-03-15 00:00:00,mê linh,mê linh_quang minh,148873,151684,151694,0.025657895
+90,101185,Thành phố Hà Nội,Huyện Mê Linh,Thị trấn Quang Minh,Đất tổ dân phố TT Quang Minh,400,3.8,70,4.2,1,2022-03-15 00:00:00,mê linh,mê linh_quang minh,148873,151684,151694,0.026428571
+91,101186,Thành phố Hà Nội,Huyện Mê Linh,Thị trấn Quang Minh,Đất tổ dân phố TT Quang Minh,400,3.8,75.60000002,4.26,1,2022-03-15 00:00:00,mê linh,mê linh_quang minh,148873,151684,151694,0.026471676
+92,101189,Thành phố Hà Nội,Huyện Thường Tín,Xã Duyên Thái,Cao tốc Pháp Vân,100,5,58,5,1,2022-03-15 00:00:00,thường tín,thường tín_duyên thái,148873,152587,152641,0.037931034
+93,101199,Thành phố Hà Nội,Quận Hà Đông,Phường Phú Lương,Nguyễn Trực,200,11.5,50,5,1,2022-03-15 00:00:00,hà đông,hà đông_phú lương,148873,149779,195412,0.08
+94,101200,Thành phố Hà Nội,Huyện Đan Phượng,Xã Song Phượng,Đường Quốc lộ 32,150,12,60,5,1,2022-03-15 00:00:00,đan phượng,đan phượng_song phượng,148873,151297,151345,0.089166667
+95,101201,Thành phố Hà Nội,Huyện Đan Phượng,Xã Song Phượng,Đường Quốc lộ 32,200,12,94,5,1,2022-03-15 00:00:00,đan phượng,đan phượng_song phượng,148873,151297,151345,0.089234043
+96,101202,Thành phố Hà Nội,Huyện Đan Phượng,Xã Song Phượng,Đường Quốc lộ 32,200,12,84,5,1,2022-03-15 00:00:00,đan phượng,đan phượng_song phượng,148873,151297,151345,0.089238095
+97,101203,Thành phố Hà Nội,Huyện Đan Phượng,Xã Song Phượng,Đường Quốc lộ 32,100,12,84.28,4.9,1,2022-03-15 00:00:00,đan phượng,đan phượng_song phượng,148873,151297,151345,0.087428676
+98,101312,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường tỉnh lộ 419,0,20,100,5,1,2022-03-15 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.09
+99,101313,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường tỉnh lộ 419,0,20,140,7,1,2022-03-15 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.0849
+100,101321,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Quang Trung,Chùa Thông,0,20,168,6.5,1,2022-03-15 00:00:00,sơn tây,sơn tây_quang trung,148873,150784,195419,0.055
+101,101322,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Quang Trung,Chùa Thông,0,20,100,5,1,2022-03-15 00:00:00,sơn tây,sơn tây_quang trung,148873,150784,195419,0.055
+102,101323,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Quang Trung,Chùa Thông,0,20,100,5,1,2022-03-15 00:00:00,sơn tây,sơn tây_quang trung,148873,150784,195419,0.055
+103,101375,Thành phố Hà Nội,Quận Cầu Giấy,Phường Dịch Vọng,Cầu Giấy,100,2.2,67,3.9,1,2022-03-15 00:00:00,cầu giấy,cầu giấy_dịch vọng,148873,149252,195294,0.082164179
+104,101376,Thành phố Hà Nội,Quận Cầu Giấy,Phường Dịch Vọng,Khúc Thừa Dụ,40,1.7,30,3,1,2022-03-15 00:00:00,cầu giấy,cầu giấy_dịch vọng,148873,149252,195294,0.085973793
+105,101444,Thành phố Hà Nội,Quận Hoàng Mai,Phường Hoàng Liệt,Đường Bằng B - Thanh Liệt,150,2.3,46,3.5,1,2022-03-15 00:00:00,hoàng mai,hòang mai_hòang liệt,148873,150379,195352,0.040461957
+106,101594,Thành phố Hà Nội,Quận Hà Đông,Phường Yên Nghĩa,Đường Yên Hòa,100,2.3,35,3.5,1,2022-03-15 00:00:00,hà đông,hà đông_yên nghĩa,148873,149779,195409,0.035714286
+107,101595,Thành phố Hà Nội,Quận Hà Đông,Phường Yên Nghĩa,Đường Yên Hòa,85,2.4,205,2.58,1,2022-03-15 00:00:00,hà đông,hà đông_yên nghĩa,148873,149779,195409,0.028232143
+108,101616,Thành phố Hà Nội,Huyện Đan Phượng,Xã Song Phượng,Đường Quốc lộ 32,230,9,99.9,6,2,2022-03-15 00:00:00,đan phượng,đan phượng_song phượng,148873,151297,151345,0.07010588
+109,101861,Thành phố Hà Nội,Quận Hà Đông,Phường Yên Nghĩa,Yên Lộ,400,4,48,4,1,2022-03-15 00:00:00,hà đông,hà đông_yên nghĩa,148873,149779,195409,0.062775
+110,101862,Thành phố Hà Nội,Quận Hà Đông,Phường Yên Nghĩa,Yên Lộ,400,4,44,3.3,1,2022-03-15 00:00:00,hà đông,hà đông_yên nghĩa,148873,149779,195409,0.064772727
+111,101863,Thành phố Hà Nội,Quận Hà Đông,Phường Yên Nghĩa,Yên Lộ,450,4.5,52.09999999,4,1,2022-03-15 00:00:00,hà đông,hà đông_yên nghĩa,148873,149779,195409,0.063082024
+112,101870,Thành phố Hà Nội,Quận Bắc Từ Liêm,Phường Cổ Nhuế 2,Đường Cổ Nhuế,150,2,33,3.6,1,2022-03-15 00:00:00,bắc từ liêm,bắc từ liêm_cổ nhuế 2,148873,149087,195396,0.065975758
+113,101871,Thành phố Hà Nội,Quận Bắc Từ Liêm,Phường Cổ Nhuế 2,Đường Cổ Nhuế,120,2.1,64.69999999,3.59,2,2022-03-15 00:00:00,bắc từ liêm,bắc từ liêm_cổ nhuế 2,148873,149087,195396,0.057145139
+114,101887,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường Đồng Vàng,0,7,200,15.3,1,2022-03-15 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.0365
+115,101888,Thành phố Hà Nội,Huyện Ba Vì,Xã Chu Minh,QUỐC LỘ 32,0,15,128.7,8,1,2022-03-15 00:00:00,ba vì,ba vì_chu minh,148873,151065,151129,0.050047667
+116,101889,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Quang Trung,Thuần Nghệ,0,4.5,52,3.9,1,2022-03-15 00:00:00,sơn tây,sơn tây_quang trung,148873,150784,195419,0.034429231
+117,101890,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Quang Trung,Thuần Nghệ,0,4.5,75,5,1,2022-03-15 00:00:00,sơn tây,sơn tây_quang trung,148873,150784,195419,0.033
+118,101891,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Quang Trung,Thuần Nghệ,0,4.5,75,5,1,2022-03-15 00:00:00,sơn tây,sơn tây_quang trung,148873,150784,195419,0.033
+119,101933,Thành phố Hà Nội,Huyện Hoài Đức,Xã Minh Khai,Đê Minh Khai,100,12,70,5,2,2022-03-15 00:00:00,hoài đức,hòai đức_minh khai,148873,151598,151659,0.052142857
+120,101934,Thành phố Hà Nội,Huyện Hoài Đức,Xã Minh Khai,Đê Minh Khai,70,12,70,5,2,2022-03-15 00:00:00,hoài đức,hòai đức_minh khai,148873,151598,151659,0.052213801
+121,101953,Thành phố Hà Nội,Quận Hoàng Mai,Phường Hoàng Liệt,Đường Bằng B - Thanh Liệt,100,4,110,6.2,1,2022-03-15 00:00:00,hoàng mai,hòang mai_hòang liệt,148873,150379,195352,0.067272727
+122,101954,Thành phố Hà Nội,Quận Hoàng Mai,Phường Hoàng Liệt,Đường Bằng B - Thanh Liệt,40,4,147.2,10.76,1,2022-03-15 00:00:00,hoàng mai,hòang mai_hòang liệt,148873,150379,195352,0.055517133
+123,101956,Thành phố Hà Nội,Huyện Thạch Thất,Xã Dị Nậu,Đường 420,1200,3.5,252.4,3.88,1,2022-03-15 00:00:00,thạch thất,thạch thất_dị nậu,148873,152286,152349,0.0136
+124,101995,Thành phố Hà Nội,Quận Hoàn Kiếm,Phường Cửa Đông,Nguyễn Quang Bích,0,10,126,5.2,1,2022-03-15 00:00:00,hoàn kiếm,hòan kiếm_cửa đông,148873,150021,195258,0.768968254
+125,102009,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Thanh Lương,Kim Ngưu,200,2,42.8,3.5,1,2022-03-15 00:00:00,hai bà trưng,hai bà trưng_thanh lương,148873,149556,195329,0.063785047
+126,102010,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Thanh Lương,Kim Ngưu,200,2,52,3.5,1,2022-03-15 00:00:00,hai bà trưng,hai bà trưng_thanh lương,148873,149556,195329,0.069711538
+127,102029,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Thanh Nhàn,Trần Khát Chân,0,30,70.4,4.97,2,2022-03-15 00:00:00,hai bà trưng,hai bà trưng_thanh nhàn,148873,149556,195330,0.377840909
+128,102084,Thành phố Hà Nội,Huyện Thạch Thất,Xã Chàng Sơn,Đường liên xã,300,2,40,3.7,1,2022-03-28 00:00:00,thạch thất,thạch thất_chàng sơn,148873,152286,152355,0.022835223
+129,102085,Thành phố Hà Nội,Huyện Thạch Thất,Xã Chàng Sơn,Đường liên xã,300,2,40,4.85,1,2022-03-28 00:00:00,thạch thất,thạch thất_chàng sơn,148873,152286,152355,0.023054608
+130,102103,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Thanh Lương,Kim Ngưu,200,2,42.8,3.5,1,2022-03-28 00:00:00,hai bà trưng,hai bà trưng_thanh lương,148873,149556,195329,0.063785047
+131,102104,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Thanh Lương,Kim Ngưu,200,2,52,3.5,1,2022-03-28 00:00:00,hai bà trưng,hai bà trưng_thanh lương,148873,149556,195329,0.069711538
+132,102105,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Thanh Lương,Kim Ngưu,230,1.5,51.4,3.18,1,2022-03-28 00:00:00,hai bà trưng,hai bà trưng_thanh lương,148873,149556,195329,0.06440117
+133,102121,Thành phố Hà Nội,Huyện Phúc Thọ,Xã Tam Hiệp,Đất ở khu dân cư nông thôn (Xã Tam Hiệp),30,4.5,84,7.3,1,2022-03-28 00:00:00,phúc thọ,phúc thọ_tam hiệp,148873,151998,152056,0.03605
+134,102158,Thành phố Hà Nội,Quận Long Biên,Phường Phúc Lợi,Phúc Lợi,250,2.5,38,3.17,1,2022-03-24 00:00:00,long biên,long biên_phúc lợi,148873,150530,195284,0.048189474
+135,102163,Thành phố Hà Nội,Huyện Gia Lâm,Xã Yên Thường,Đường Ninh Hiệp,30,4.5,207,7.3,1,2022-03-23 00:00:00,gia lâm,gia lâm_yên thường,148873,151480,151560,0.057217292
+136,102167,Thành phố Hà Nội,Quận Hà Đông,Phường Phú Lương,Quốc lộ 21B,200,11.5,50,5,1,2022-03-23 00:00:00,hà đông,hà đông_phú lương,148873,149779,195412,0.08
+137,102168,Thành phố Hà Nội,Quận Hà Đông,Phường Phú Lương,Nguyễn Trực,200,11.5,50,5,1,2022-03-23 00:00:00,hà đông,hà đông_phú lương,148873,149779,195412,0.08
+138,102169,Thành phố Hà Nội,Quận Hà Đông,Phường Phú Lương,Nguyễn Trực,200,11.5,50,5,1,2022-03-23 00:00:00,hà đông,hà đông_phú lương,148873,149779,195412,0.08
+139,102176,Thành phố Hà Nội,Huyện Đông Anh,Xã Uy Nỗ,Đường Cao Lỗ (đoạn thuộc xã Uy Nỗ),700,4,71.5,4,1,2022-03-23 00:00:00,đông anh,đông anh_uy nỗ,148873,151363,151436,0.040559441
+140,102177,Thành phố Hà Nội,Huyện Đông Anh,Xã Uy Nỗ,Đường Cao Lỗ (đoạn thuộc xã Uy Nỗ),800,4,70.5,4,1,2022-03-23 00:00:00,đông anh,đông anh_uy nỗ,148873,151363,151436,0.043262411
+141,102178,Thành phố Hà Nội,Huyện Đông Anh,Xã Uy Nỗ,Đường Cao Lỗ (đoạn thuộc xã Uy Nỗ),650,6.5,46,4.2,1,2022-03-23 00:00:00,đông anh,đông anh_uy nỗ,148873,151363,151436,0.045019874
+142,102192,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Thanh Nhàn,Trần Khát Chân,130,1.8,32,4,1,2022-03-24 00:00:00,hai bà trưng,hai bà trưng_thanh nhàn,148873,149556,195330,0.067710938
+143,102219,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên thôn,70,4.5,111.6,11.2,1,2022-03-21 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.036
+144,102220,Thành phố Hà Nội,Huyện Thạch Thất,Xã Dị Nậu,Đường liên thôn,0,3,40,4,1,2022-03-23 00:00:00,thạch thất,thạch thất_dị nậu,148873,152286,152349,0.028
+145,102221,Thành phố Hà Nội,Huyện Thạch Thất,Xã Dị Nậu,Đường liên thôn,0,3,72,2.19,2,2022-03-23 00:00:00,thạch thất,thạch thất_dị nậu,148873,152286,152349,0.020026667
+146,102259,Thành phố Hà Nội,Quận Hoàng Mai,Phường Lĩnh Nam,Thúy Lĩnh,100,1.75,118.5,7.09,1,2022-03-22 00:00:00,hoàng mai,hòang mai_lĩnh nam,148873,150379,195349,0.029980593
+147,102263,Thành phố Hà Nội,Huyện Phúc Thọ,Xã Tam Hiệp,Đường liên thôn,0,6.5,100,5,1,2022-03-22 00:00:00,phúc thọ,phúc thọ_tam hiệp,148873,151998,152056,0.033826667
+148,102325,Thành phố Hà Nội,Quận Long Biên,Phường Thượng Thanh,Thượng Thanh,200,2.4,53,3.5,1,2022-03-29 00:00:00,long biên,long biên_thượng thanh,148873,150530,195277,0.060377358
+149,102326,Thành phố Hà Nội,Quận Long Biên,Phường Thượng Thanh,Thượng Thanh,150,2.4,218.3,16.5,2,2022-03-29 00:00:00,long biên,long biên_thượng thanh,148873,150530,195277,0.051316102
+150,102327,Thành phố Hà Nội,Quận Long Biên,Phường Ngọc Thụy,Ngọc Thụy,250,2,38.69999999,3.24,1,2022-03-29 00:00:00,long biên,long biên_ngọc thụy,148873,150530,195278,0.043332812
+151,102331,Thành phố Hà Nội,Huyện Quốc Oai,Thị trấn Quốc Oai,Phố Huyện,0,16,70,4.2,1,2022-03-30 00:00:00,quốc oai,quốc oai_quốc oai,148873,152080,152081,0.086128571
+152,102332,Thành phố Hà Nội,Huyện Quốc Oai,Thị trấn Quốc Oai,Phố Huyện,0,16,64.2,3.99,1,2022-03-30 00:00:00,quốc oai,quốc oai_quốc oai,148873,152080,152081,0.083702271
+153,102358,Thành phố Hà Nội,Quận Long Biên,Phường Thượng Thanh,Thượng Thanh,200,2.4,53,3.5,1,2022-03-25 00:00:00,long biên,long biên_thượng thanh,148873,150530,195277,0.060377358
+154,102363,Thành phố Hà Nội,Huyện Thanh Trì,Xã Đông Mỹ,Đường Đông Mỹ (từ cuối đường Ngũ Hiệp đến hết đường Đông Mỹ),300,3,42,3.6,1,2022-03-25 00:00:00,thanh trì,thanh trì_đông mỹ,148873,152474,152561,0.027857143
+155,102364,Thành phố Hà Nội,Huyện Thanh Trì,Xã Đông Mỹ,Đường Đông Mỹ (từ cuối đường Ngũ Hiệp đến hết đường Đông Mỹ),300,2,60,3,1,2022-03-25 00:00:00,thanh trì,thanh trì_đông mỹ,148873,152474,152561,0.020833333
+156,102365,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Vĩnh Tuy,Dương Văn Bé,200,3.5,59,7.68,2,2022-03-25 00:00:00,hai bà trưng,hai bà trưng_vĩnh tuy,148873,149556,195334,0.091101695
+157,102366,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Vĩnh Tuy,Dương Văn Bé,200,2.8,53,4,1,2022-03-25 00:00:00,hai bà trưng,hai bà trưng_vĩnh tuy,148873,149556,195334,0.081501887
+158,102372,Thành phố Hà Nội,Huyện Đan Phượng,Xã Liên Hà,Đường đê Liên Hà,200,2.3,120,10,2,2022-03-25 00:00:00,đan phượng,đan phượng_liên hà,148873,151297,151339,0.018043
+159,102374,Thành phố Hà Nội,Huyện Thanh Oai,Xã Thanh Cao,Quốc lộ 21B,410,2,40.2,3.9,1,2022-03-24 00:00:00,thanh oai,thanh oai_thanh cao,148873,152384,152458,0.016915423
+160,102375,Thành phố Hà Nội,Huyện Thanh Oai,Xã Thanh Cao,Quốc lộ 21B,430,2,40.8,3.65,1,2022-03-24 00:00:00,thanh oai,thanh oai_thanh cao,148873,152384,152458,0.015931373
+161,102376,Thành phố Hà Nội,Huyện Thanh Oai,Xã Thanh Cao,Quốc lộ 21B,400,2,40,3.3,1,2022-03-24 00:00:00,thanh oai,thanh oai_thanh cao,148873,152384,152458,0.01625
+162,102377,Thành phố Hà Nội,Huyện Thanh Oai,Xã Thanh Cao,Quốc lộ 21B,420,2,42.79999999,3.4,1,2022-03-24 00:00:00,thanh oai,thanh oai_thanh cao,148873,152384,152458,0.016365599
+163,102449,Thành phố Hà Nội,Huyện Đan Phượng,Xã Đan Phượng,Đường 19/5,0,5.5,97.60000001,7.57,1,2022-04-13 00:00:00,đan phượng,đan phượng_đan phượng,148873,151297,151331,0.030571918
+164,102484,Thành phố Hà Nội,Huyện Thạch Thất,Xã Chàng Sơn,Đường tỉnh lộ 419,2200,3.5,56,4,1,2022-04-14 00:00:00,thạch thất,thạch thất_chàng sơn,148873,152286,152355,0.03885
+165,102567,Thành phố Hà Nội,Quận Hoàng Mai,Phường Thanh Trì,Thanh Đàm,200,2.5,35,4,1,2022-04-19 00:00:00,hoàng mai,hòang mai_thanh trì,148873,150379,195340,0.042
+166,102568,Thành phố Hà Nội,Quận Hoàng Mai,Phường Thanh Trì,Thanh Đàm,200,2.2,34,4,1,2022-04-19 00:00:00,hoàng mai,hòang mai_thanh trì,148873,150379,195340,0.043235294
+167,102569,Thành phố Hà Nội,Quận Hoàng Mai,Phường Thanh Trì,Thanh Đàm,200,2.5,36,4,1,2022-04-19 00:00:00,hoàng mai,hòang mai_thanh trì,148873,150379,195340,0.038680556
+168,102570,Thành phố Hà Nội,Quận Hoàng Mai,Phường Thanh Trì,Thanh Đàm,100,2.15,30,3.51,1,2022-04-19 00:00:00,hoàng mai,hòang mai_thanh trì,148873,150379,195340,0.038702149
+169,102571,Thành phố Hà Nội,Quận Hoàng Mai,Phường Thanh Trì,Thanh Đàm,200,2.5,35,4,1,2022-04-19 00:00:00,hoàng mai,hòang mai_thanh trì,148873,150379,195340,0.042
+170,102572,Thành phố Hà Nội,Quận Hoàng Mai,Phường Thanh Trì,Thanh Đàm,200,2.2,34,4,1,2022-04-19 00:00:00,hoàng mai,hòang mai_thanh trì,148873,150379,195340,0.043235294
+171,102573,Thành phố Hà Nội,Quận Hoàng Mai,Phường Thanh Trì,Thanh Đàm,200,2.5,36,4,1,2022-04-19 00:00:00,hoàng mai,hòang mai_thanh trì,148873,150379,195340,0.038680556
+172,102574,Thành phố Hà Nội,Quận Hoàng Mai,Phường Thanh Trì,Thanh Đàm,100,2.15,30,3.51,2,2022-04-19 00:00:00,hoàng mai,hòang mai_thanh trì,148873,150379,195340,0.039528254
+173,102587,Thành phố Hà Nội,Huyện Thường Tín,Xã Tiền Phong,Đất ở khu dân cư nông thôn (Xã Tiền Phong),600,7,140,9,1,2022-05-10 00:00:00,thường tín,thường tín_tiền phong,148873,152587,152655,0.030714286
+174,102588,Thành phố Hà Nội,Huyện Thường Tín,Xã Tiền Phong,Đất ở khu dân cư nông thôn (Xã Tiền Phong),300,8,82.27,5,1,2022-05-10 00:00:00,thường tín,thường tín_tiền phong,148873,152587,152655,0.036465297
+175,102589,Thành phố Hà Nội,Huyện Thường Tín,Xã Tiền Phong,Đất ở khu dân cư nông thôn (Xã Tiền Phong),500,7,112,8,1,2022-05-10 00:00:00,thường tín,thường tín_tiền phong,148873,152587,152655,0.035134528
+176,102612,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Quang Trung,Thuần Nghệ,0,4.5,52,3.9,1,2022-04-28 00:00:00,sơn tây,sơn tây_quang trung,148873,150784,195419,0.034429231
+177,102613,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Quang Trung,Thuần Nghệ,0,4.5,75,5,1,2022-04-28 00:00:00,sơn tây,sơn tây_quang trung,148873,150784,195419,0.033
+178,102614,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Quang Trung,Thuần Nghệ,0,4.5,75,5,1,2022-04-28 00:00:00,sơn tây,sơn tây_quang trung,148873,150784,195419,0.033
+179,102615,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Quang Trung,Thuần Nghệ,0,4.5,71.59999999,4.8,1,2022-04-28 00:00:00,sơn tây,sơn tây_quang trung,148873,150784,195419,0.033017354
+180,102637,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường tỉnh lộ 419,0,12,120,62,1,2022-05-26 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.09
+181,102638,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường tỉnh lộ 419,0,12,120,6,1,2022-05-26 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.09
+182,102666,Thành phố Hà Nội,Quận Thanh Xuân,Phường Khương Trung,Vương Thừa Vũ,0,8,52.2,3.32,1,2022-03-17 00:00:00,thanh xuân,thanh xuân_khương trung,148873,150965,195356,0.202118741
+183,102687,Thành phố Hà Nội,Huyện Thường Tín,Thị trấn Thường Tín,DT427B,50,4,82,4,2,2022-03-18 00:00:00,thường tín,thường tín_thường tín,148873,152587,152588,0.045585366
+184,102688,Thành phố Hà Nội,Huyện Thường Tín,Thị trấn Thường Tín,DT427B,50,4,82,4,2,2022-03-18 00:00:00,thường tín,thường tín_thường tín,148873,152587,152588,0.042
+185,102689,Thành phố Hà Nội,Huyện Thường Tín,Thị trấn Thường Tín,DT427B,50,4.2,89.23,4.56,1,2022-03-18 00:00:00,thường tín,thường tín_thường tín,148873,152587,152588,0.04034897
+186,102695,Thành phố Hà Nội,Quận Cầu Giấy,Phường Trung Hòa,Trần Duy Hưng,30,2,32,4.7,1,2022-03-18 00:00:00,cầu giấy,cầu giấy_trung hòa,148873,149252,195298,0.10296875
+187,102723,Thành phố Hà Nội,Huyện Quốc Oai,Xã Ngọc Liệp,Đại Lộ Thăng Long,350,5,86,5,1,2022-03-17 00:00:00,quốc oai,quốc oai_ngọc liệp,148873,152080,152149,0.025
+188,102724,Thành phố Hà Nội,Huyện Quốc Oai,Xã Ngọc Liệp,Đại Lộ Thăng Long,250,5,60,5,1,2022-03-17 00:00:00,quốc oai,quốc oai_ngọc liệp,148873,152080,152149,0.02565
+189,102725,Thành phố Hà Nội,Huyện Quốc Oai,Xã Ngọc Liệp,Đại Lộ Thăng Long,50,7.5,163,7.8,1,2022-03-17 00:00:00,quốc oai,quốc oai_ngọc liệp,148873,152080,152149,0.0243725
+190,102730,Thành phố Hà Nội,Huyện Gia Lâm,Xã Yên Viên,Đường Phù Đổng,500,2.4,31,3.2,1,2022-03-17 00:00:00,gia lâm,gia lâm_yên viên,148873,151480,151552,0.035483871
+191,102730,Thành phố Hà Nội,Huyện Gia Lâm,Xã Yên Viên,Đường Phù Đổng,500,2.4,31,3.2,1,2022-03-17 00:00:00,gia lâm,gia lâm_yên viên,148873,151480,151481,0.035483871
+192,102743,Thành phố Hà Nội,Huyện Thường Tín,Xã Thư Phú,DT427,1300,4,59.20000002,4,1,2022-03-17 00:00:00,thường tín,thường tín_thư phú,148873,152587,152665,0.017972973
+193,102772,Thành phố Hà Nội,Quận Cầu Giấy,Phường Trung Hòa,Trần Duy Hưng,100,2,52,4.1,1,2022-03-18 00:00:00,cầu giấy,cầu giấy_trung hòa,148873,149252,195298,0.103653846
+194,102773,Thành phố Hà Nội,Quận Cầu Giấy,Phường Trung Hòa,Trần Duy Hưng,150,2,50,4,1,2022-03-18 00:00:00,cầu giấy,cầu giấy_trung hòa,148873,149252,195298,0.09855
+195,102774,Thành phố Hà Nội,Quận Cầu Giấy,Phường Trung Hòa,Trần Duy Hưng,70,2.1,49.8,4,1,2022-03-18 00:00:00,cầu giấy,cầu giấy_trung hòa,148873,149252,195298,0.120024393
+196,102797,Thành phố Hà Nội,Quận Long Biên,Phường Thạch Bàn,Nguyễn Văn Linh,750,2,53,4,2,2022-03-17 00:00:00,long biên,long biên_thạch bàn,148873,150530,195288,0.047169811
+197,102811,Thành phố Hà Nội,Huyện Ba Vì,Xã Phú Sơn,Đường QL 32,0,9,88.2,4.2,1,2022-03-17 00:00:00,ba vì,ba vì_phú sơn,148873,151065,151153,0.030612245
+198,102812,Thành phố Hà Nội,Huyện Thạch Thất,Xã Đồng Trúc,Đường liên xã,0,5,194,6.82,2,2022-03-17 00:00:00,thạch thất,thạch thất_đồng trúc,148873,152286,152371,0.028
+199,102813,Thành phố Hà Nội,Huyện Thạch Thất,Xã Đồng Trúc,Đường liên xã,0,5,196,6.8,2,2022-03-17 00:00:00,thạch thất,thạch thất_đồng trúc,148873,152286,152371,0.028
+200,102814,Thành phố Hà Nội,Huyện Thạch Thất,Xã Đồng Trúc,Đường liên xã,0,5,196,6.8,2,2022-03-17 00:00:00,thạch thất,thạch thất_đồng trúc,148873,152286,152371,0.028
+201,102815,Thành phố Hà Nội,Huyện Thạch Thất,Xã Đồng Trúc,Đường liên xã,0,5,196,6.79,2,2022-03-17 00:00:00,thạch thất,thạch thất_đồng trúc,148873,152286,152371,0.027066667
+202,102816,Thành phố Hà Nội,Huyện Đông Anh,Xã Vĩnh Ngọc,Đê tả Sông Hồng,250,5.5,100,4.95,1,2022-03-17 00:00:00,đông anh,đông anh_vĩnh ngọc,148873,151363,151450,0.0711
+203,102817,Thành phố Hà Nội,Huyện Thường Tín,Xã Thư Phú,DT427,1300,4,56.30000002,4,1,2022-03-17 00:00:00,thường tín,thường tín_thư phú,148873,152587,152665,0.018561279
+204,102818,Thành phố Hà Nội,Huyện Thường Tín,Xã Thư Phú,DT427,1200,3,108,5,1,2022-03-17 00:00:00,thường tín,thường tín_thư phú,148873,152587,152665,0.016360276
+205,102823,Thành phố Hà Nội,Quận Đống Đa,Phường Khương Thượng,Tôn Thất Tùng,150,1.8,32,5,1,2022-03-17 00:00:00,đống đa,đống đa_khương thượng,148873,149387,195319,0.0729375
+206,102824,Thành phố Hà Nội,Quận Đống Đa,Phường Khương Thượng,Tôn Thất Tùng,100,1.8,30,4,1,2022-03-17 00:00:00,đống đa,đống đa_khương thượng,148873,149387,195319,0.080583333
+207,102832,Thành phố Hà Nội,Huyện Gia Lâm,Xã Ninh Hiệp,Đường Ninh Hiệp,450,5,56,4,1,2022-03-18 00:00:00,gia lâm,gia lâm_ninh hiệp,148873,151480,151554,0.285714286
+208,102833,Thành phố Hà Nội,Huyện Gia Lâm,Xã Ninh Hiệp,Đường Ninh Hiệp,400,5,67,4,1,2022-03-18 00:00:00,gia lâm,gia lâm_ninh hiệp,148873,151480,151554,0.268656716
+209,102834,Thành phố Hà Nội,Huyện Gia Lâm,Xã Ninh Hiệp,Đường Ninh Hiệp,400,5,52,3.8,1,2022-03-18 00:00:00,gia lâm,gia lâm_ninh hiệp,148873,151480,151554,0.288461538
+210,102835,Thành phố Hà Nội,Huyện Gia Lâm,Xã Ninh Hiệp,Đường Ninh Hiệp,400,5,45.8,3.8,1,2022-03-18 00:00:00,gia lâm,gia lâm_ninh hiệp,148873,151480,151554,0.282735225
+211,102836,Thành phố Hà Nội,Quận Hoàn Kiếm,Phường Hàng Buồm,Hàng Buồm,0,10,100,3.5,1,2022-03-18 00:00:00,hoàn kiếm,hòan kiếm_hàng buồm,148873,150021,195255,0.5158
+212,102837,Thành phố Hà Nội,Quận Hoàn Kiếm,Phường Hàng Buồm,Hàng Buồm,0,10,86.3,3,1,2022-03-18 00:00:00,hoàn kiếm,hòan kiếm_hàng buồm,148873,150021,195255,0.611218133
+213,102858,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Phú Yên,Đường 428 a,0,7,278,11.5,1,2022-03-18 00:00:00,phú xuyên,phú xuyên_phú yên,148873,151880,151956,0.066536667
+214,102864,Thành phố Hà Nội,Huyện Gia Lâm,Xã Cổ Bi,Cổ Bi,300,3.7,50,4.5,1,2022-03-18 00:00:00,gia lâm,gia lâm_cổ bi,148873,151480,195367,0.054
+215,102865,Thành phố Hà Nội,Huyện Gia Lâm,Xã Cổ Bi,Cổ Bi,250,3.5,213.3,3.28,1,2022-03-18 00:00:00,gia lâm,gia lâm_cổ bi,148873,151480,195367,0.042803333
+216,102883,Thành phố Hà Nội,Huyện Đông Anh,Xã Vĩnh Ngọc,Đê tả Sông Hồng,150,5.5,100,5.7,1,2022-03-17 00:00:00,đông anh,đông anh_vĩnh ngọc,148873,151363,151450,0.0655
+217,102884,Thành phố Hà Nội,Huyện Đông Anh,Xã Vĩnh Ngọc,Đê tả Sông Hồng,220,5,70,5,1,2022-03-17 00:00:00,đông anh,đông anh_vĩnh ngọc,148873,151363,151450,0.067857143
+218,102885,Thành phố Hà Nội,Huyện Đông Anh,Xã Vĩnh Ngọc,Đê tả Sông Hồng,200,5.4,145,8.8,1,2022-03-17 00:00:00,đông anh,đông anh_vĩnh ngọc,148873,151363,151450,0.066121571
+219,102889,Thành phố Hà Nội,Huyện Thường Tín,Xã Tiền Phong,DT427B,1100,7,84.7,5,2,2022-03-17 00:00:00,thường tín,thường tín_tiền phong,148873,152587,152655,0.045055556
+220,102905,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Đại Xuyên,Đất ở khu dân cư nông thôn (Xã Đại Xuyên),500,7,108,7,1,2022-03-18 00:00:00,phú xuyên,phú xuyên_đại xuyên,148873,151880,151958,0.018518519
+221,102906,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Đại Xuyên,Đất ở khu dân cư nông thôn (Xã Đại Xuyên),500,7,108,7,1,2022-03-18 00:00:00,phú xuyên,phú xuyên_đại xuyên,148873,151880,151958,0.018518519
+222,102907,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Đại Xuyên,Đất ở khu dân cư nông thôn (Xã Đại Xuyên),500,7,108,7,1,2022-03-18 00:00:00,phú xuyên,phú xuyên_đại xuyên,148873,151880,151958,0.018518519
+223,102908,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Đại Xuyên,Đất ở khu dân cư nông thôn (Xã Đại Xuyên),500,7,108.87,7,1,2022-03-18 00:00:00,phú xuyên,phú xuyên_đại xuyên,148873,151880,151958,0.018518519
+224,102914,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Phú Yên,Đường 428 a,0,7,155.8,9,1,2022-03-18 00:00:00,phú xuyên,phú xuyên_phú yên,148873,151880,151956,0.070554
+225,102915,Thành phố Hà Nội,Quận Bắc Từ Liêm,Phường Phúc Diễn,Phố Phú Kiều,40,2,36.3,4.33,2,2022-03-18 00:00:00,bắc từ liêm,bắc từ liêm_phúc diễn,148873,149087,195398,0.069338843
+226,102916,Thành phố Hà Nội,Quận Bắc Từ Liêm,Phường Phúc Diễn,Phố Phú Kiều,20,2,30,6.7,1,2022-03-18 00:00:00,bắc từ liêm,bắc từ liêm_phúc diễn,148873,149087,195398,0.058
+227,102917,Thành phố Hà Nội,Quận Bắc Từ Liêm,Phường Phúc Diễn,Phố Phú Kiều,30,2,30,4,1,2022-03-18 00:00:00,bắc từ liêm,bắc từ liêm_phúc diễn,148873,149087,195398,0.054666667
+228,102926,Thành phố Hà Nội,Huyện Quốc Oai,Xã Ngọc Liệp,Đại Lộ Thăng Long,400,3,90,9,1,2022-03-18 00:00:00,quốc oai,quốc oai_ngọc liệp,148873,152080,152149,0.02
+229,102938,Thành phố Hà Nội,Huyện Thường Tín,Xã Tiền Phong,DT427B,1100,7,291.3,9.71,1,2022-03-17 00:00:00,thường tín,thường tín_tiền phong,148873,152587,152655,0.039455556
+230,102957,Thành phố Hà Nội,Huyện Phúc Thọ,Xã Hát Môn,Đường liên xã,626,4.5,259.1,9,1,2022-03-17 00:00:00,phúc thọ,phúc thọ_hát môn,148873,151998,152038,0.01004599
+231,102988,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường liên thôn,50,7.5,90,5,2,2022-03-18 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152343,0.035666666
+232,102988,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường liên thôn,50,7.5,90,5,2,2022-03-18 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152287,0.035666666
+233,103021,Thành phố Hà Nội,Quận Long Biên,Phường Cự Khối,Xuân Đỗ,100,13,82,5.2,1,2022-03-17 00:00:00,long biên,long biên_cự khối,148873,150530,195290,0.146341463
+234,103022,Thành phố Hà Nội,Quận Long Biên,Phường Cự Khối,Xuân Đỗ,150,13,40,3.5,1,2022-03-17 00:00:00,long biên,long biên_cự khối,148873,150530,195290,0.14
+235,103023,Thành phố Hà Nội,Quận Long Biên,Phường Cự Khối,Xuân Đỗ,100,13,79,5,1,2022-03-17 00:00:00,long biên,long biên_cự khối,148873,150530,195290,0.139240506
+236,103024,Thành phố Hà Nội,Quận Long Biên,Phường Cự Khối,Xuân Đỗ,100,13,79,3.62,1,2022-03-17 00:00:00,long biên,long biên_cự khối,148873,150530,195290,0.128607924
+237,103052,Thành phố Hà Nội,Huyện Thanh Trì,Xã Hữu Hoà,Đường Hữu Hòa,30,2,30.5,3.25,1,2022-03-18 00:00:00,thanh trì,thanh trì_hữu hòa,148873,152474,195382,0.042131148
+238,103053,Thành phố Hà Nội,Huyện Thanh Trì,Xã Hữu Hoà,Đường Hữu Hòa,100,2,34.09999999,6.1,1,2022-03-18 00:00:00,thanh trì,thanh trì_hữu hòa,148873,152474,195382,0.039400264
+239,103060,Thành phố Hà Nội,Huyện Thường Tín,Thị trấn Thường Tín,Nguyễn Du,0,16,82,10,3,2022-03-17 00:00:00,thường tín,thường tín_thường tín,148873,152587,152588,0.094677925
+240,103069,Thành phố Hà Nội,Huyện Thường Tín,Xã Hòa Bình,DT427B,0,17,114,8,1,2022-03-17 00:00:00,thường tín,thường tín_hòa bình,148873,152587,152663,0.052733809
+241,103079,Thành phố Hà Nội,Quận Thanh Xuân,Phường Hạ Đình,Nguyễn Xiển,100,5,142.6,8.36,1,2022-03-17 00:00:00,thanh xuân,thanh xuân_hạ đình,148873,150965,195360,0.131780968
+242,103080,Thành phố Hà Nội,Huyện Gia Lâm,Thị trấn Trâu Quỳ,Đường Ngô Xuân Quảng,600,2,80,4,1,2022-03-17 00:00:00,gia lâm,gia lâm_trâu quỳ,148873,151480,151490,0.03875
+243,103081,Thành phố Hà Nội,Huyện Gia Lâm,Thị trấn Trâu Quỳ,Đường Ngô Xuân Quảng,500,2.3,45.5,5,1,2022-03-17 00:00:00,gia lâm,gia lâm_trâu quỳ,148873,151480,151490,0.043846154
+244,103082,Thành phố Hà Nội,Huyện Thạch Thất,Xã Dị Nậu,Đường liên thôn,0,7,100,5,1,2022-03-17 00:00:00,thạch thất,thạch thất_dị nậu,148873,152286,152349,0.045
+245,103083,Thành phố Hà Nội,Huyện Thạch Thất,Xã Dị Nậu,Đường liên thôn,0,7,100,5.02,1,2022-03-17 00:00:00,thạch thất,thạch thất_dị nậu,148873,152286,152349,0.045
+246,103084,Thành phố Hà Nội,Quận Ba Đình,Phường Phúc Xá,Hồng Hà,120,4.5,43.5,4,1,2022-03-17 00:00:00,ba đình,ba đình_phúc xá,148873,148874,195238,0.175782874
+247,103085,Thành phố Hà Nội,Quận Ba Đình,Phường Phúc Xá,Hồng Hà,110,5,43.2,3.92,1,2022-03-17 00:00:00,ba đình,ba đình_phúc xá,148873,148874,195238,0.165341072
+248,103090,Thành phố Hà Nội,Huyện Đan Phượng,Xã Song Phượng,Đất ở khu dân cư nông thôn (Xã Song Phượng),300,2.5,40,4.3,1,2022-03-17 00:00:00,đan phượng,đan phượng_song phượng,148873,151297,151345,0.020425
+249,103091,Thành phố Hà Nội,Huyện Đan Phượng,Xã Song Phượng,Đường đê,400,2.3,40,3.67,1,2022-03-17 00:00:00,đan phượng,đan phượng_song phượng,148873,151297,151345,0.02375
+250,103092,Thành phố Hà Nội,Huyện Chương Mỹ,Thị trấn Chúc Sơn,Đường Quốc lộ 6,500,10,105,10.5,1,2022-03-18 00:00:00,chương mỹ,chương mỹ_chúc sơn,148873,151179,195437,0.044571429
+251,103093,Thành phố Hà Nội,Huyện Chương Mỹ,Thị trấn Chúc Sơn,Đường Quốc lộ 6,500,10,100,5,1,2022-03-18 00:00:00,chương mỹ,chương mỹ_chúc sơn,148873,151179,195437,0.037
+252,103094,Thành phố Hà Nội,Huyện Chương Mỹ,Thị trấn Chúc Sơn,Đường Quốc lộ 6,500,10,79,5.5,1,2022-03-18 00:00:00,chương mỹ,chương mỹ_chúc sơn,148873,151179,195437,0.049367089
+253,103095,Thành phố Hà Nội,Huyện Chương Mỹ,Thị trấn Chúc Sơn,Đường Quốc lộ 6,750,6.8,52.64999999,4.05,1,2022-03-18 00:00:00,chương mỹ,chương mỹ_chúc sơn,148873,151179,195437,0.037788433
+254,103130,Thành phố Hà Nội,Huyện Thanh Trì,Xã Hữu Hoà,Đường Hữu Hòa,100,1.8,34.79999999,3.6,1,2022-03-18 00:00:00,thanh trì,thanh trì_hữu hòa,148873,152474,195382,0.027634984
+255,103161,Thành phố Hà Nội,Huyện Gia Lâm,Thị trấn Trâu Quỳ,Đường Ngô Xuân Quảng,500,3.2,101,4,1,2022-03-17 00:00:00,gia lâm,gia lâm_trâu quỳ,148873,151480,151490,0.05049505
+256,103162,Thành phố Hà Nội,Huyện Gia Lâm,Thị trấn Trâu Quỳ,Đường Ngô Xuân Quảng,650,2,87.6,3.72,1,2022-03-17 00:00:00,gia lâm,gia lâm_trâu quỳ,148873,151480,151490,0.04004081
+257,103169,Thành phố Hà Nội,Huyện Đan Phượng,Xã Song Phượng,Phố Thụy Ứng,250,2.5,422.5,21.7,2,2022-03-17 00:00:00,đan phượng,đan phượng_song phượng,148873,151297,151345,0.017405056
+258,103201,Thành phố Hà Nội,Huyện Đan Phượng,Xã Thọ An,Đường Tỉnh lộ 417 (Tỉnh lộ 83 cũ),800,3,63.59999999,3.6,1,2022-03-18 00:00:00,đan phượng,đan phượng_thọ an,148873,151297,151349,0.016981132
+259,103202,Thành phố Hà Nội,Huyện Đan Phượng,Xã Thọ An,Đường Tỉnh lộ 417 (Tỉnh lộ 83 cũ),1000,3,76,5,1,2022-03-18 00:00:00,đan phượng,đan phượng_thọ an,148873,151297,151349,0.013815789
+260,103203,Thành phố Hà Nội,Huyện Đan Phượng,Xã Thọ An,Đường Tỉnh lộ 417 (Tỉnh lộ 83 cũ),1200,2.9,254.2,13.7,1,2022-03-18 00:00:00,đan phượng,đan phượng_thọ an,148873,151297,151349,0.012241108
+261,103246,Thành phố Hà Nội,Huyện Thạch Thất,Xã Dị Nậu,Đường liên thôn,0,7,100,5,1,2022-03-17 00:00:00,thạch thất,thạch thất_dị nậu,148873,152286,152349,0.045
+262,103247,Thành phố Hà Nội,Huyện Thạch Thất,Xã Dị Nậu,Đường liên thôn,0,7,100,5.02,1,2022-03-17 00:00:00,thạch thất,thạch thất_dị nậu,148873,152286,152349,0.045
+263,103267,Thành phố Hà Nội,Huyện Thanh Oai,Xã Cao Dương,Đường 429,250,5.5,118,5,1,2022-03-18 00:00:00,thanh oai,thanh oai_cao dương,148873,152384,152456,0.019491525
+264,103268,Thành phố Hà Nội,Huyện Thanh Oai,Xã Cao Dương,Đường 429,260,5.5,100,5,1,2022-03-18 00:00:00,thanh oai,thanh oai_cao dương,148873,152384,152456,0.018
+265,103269,Thành phố Hà Nội,Huyện Thanh Oai,Xã Cao Dương,Đường 429,300,5.5,100,5,1,2022-03-18 00:00:00,thanh oai,thanh oai_cao dương,148873,152384,152456,0.0196
+266,103270,Thành phố Hà Nội,Huyện Thanh Oai,Xã Cao Dương,Đường 429,200,5.5,118,5,1,2022-03-18 00:00:00,thanh oai,thanh oai_cao dương,148873,152384,152456,0.019330508
+267,103275,Thành phố Hà Nội,Huyện Chương Mỹ,Xã Thủy Xuân Tiên,Đường Liên Xã,0,10,58.70000002,5.1,1,2022-03-18 00:00:00,chương mỹ,chương mỹ_thủy xuân tiên,148873,151179,151241,0.022146508
+268,103276,Thành phố Hà Nội,Huyện Chương Mỹ,Xã Thủy Xuân Tiên,Đường Liên Xã,0,10,78,5,1,2022-03-18 00:00:00,chương mỹ,chương mỹ_thủy xuân tiên,148873,151179,151241,0.021153846
+269,103277,Thành phố Hà Nội,Huyện Chương Mỹ,Xã Thủy Xuân Tiên,Đường Liên Xã,0,10,60,5,1,2022-03-18 00:00:00,chương mỹ,chương mỹ_thủy xuân tiên,148873,151179,151241,0.023333333
+270,103278,Thành phố Hà Nội,Huyện Chương Mỹ,Xã Thủy Xuân Tiên,Đường Liên Xã,0,10,150,6.4,1,2022-03-18 00:00:00,chương mỹ,chương mỹ_thủy xuân tiên,148873,151179,151241,0.020353244
+271,103279,Thành phố Hà Nội,Quận Nam Từ Liêm,Phường Xuân Phương,Phương Canh,80,3.2,33.5,3.63,1,2022-03-18 00:00:00,nam từ liêm,nam từ liêm_xuân phương,148873,150671,195370,0.065900238
+272,103367,Thành phố Hà Nội,Huyện Thường Tín,Xã Tiền Phong,DT427B,1100,7,82.4,5,1,2022-03-17 00:00:00,thường tín,thường tín_tiền phong,148873,152587,152655,0.042522222
+273,103448,Thành phố Hà Nội,Huyện Gia Lâm,Xã Ninh Hiệp,Đường Ninh Hiệp,400,4.5,102.2,4.04,1,2022-03-17 00:00:00,gia lâm,gia lâm_ninh hiệp,148873,151480,151554,0.08302658
+274,103459,Thành phố Hà Nội,Quận Ba Đình,Phường Vĩnh Phúc,Đốc Ngữ,15,5,62.05,3.65,1,2022-03-17 00:00:00,ba đình,ba đình_vĩnh phúc,148873,148874,195240,0.192379404
+275,103464,Thành phố Hà Nội,Quận Cầu Giấy,Phường Trung Hòa,Trung Hòa,0,15,120,5.5,1,2022-03-17 00:00:00,cầu giấy,cầu giấy_trung hòa,148873,149252,195298,0.37625
+276,103465,Thành phố Hà Nội,Quận Cầu Giấy,Phường Trung Hòa,Trung Hòa,0,15,130,5.4,1,2022-03-17 00:00:00,cầu giấy,cầu giấy_trung hòa,148873,149252,195298,0.349315337
+277,103475,Thành phố Hà Nội,Huyện Đông Anh,Xã Xuân Nộn,Chợ Kim đi qua UBND xã Xuân Nộn,1200,5,48.2,4,1,2022-03-17 00:00:00,đông anh,đông anh_xuân nộn,148873,151363,151462,0.02593361
+278,103478,Thành phố Hà Nội,Quận Long Biên,Phường Việt Hưng,Hoa Lâm,50,3.8,118,4.9,1,2022-03-18 00:00:00,long biên,long biên_việt hưng,148873,150530,195281,0.062033898
+279,103479,Thành phố Hà Nội,Quận Long Biên,Phường Việt Hưng,Hoa Lâm,50,4.5,95,5.55,1,2022-03-18 00:00:00,long biên,long biên_việt hưng,148873,150530,195281,0.076
+280,103480,Thành phố Hà Nội,Quận Long Biên,Phường Việt Hưng,Hoa Lâm,50,5,80,4,2,2022-03-18 00:00:00,long biên,long biên_việt hưng,148873,150530,195281,0.07875
+281,103481,Thành phố Hà Nội,Quận Long Biên,Phường Việt Hưng,Hoa Lâm,50,3.8,118,4.53,1,2022-03-18 00:00:00,long biên,long biên_việt hưng,148873,150530,195281,0.063998799
+282,103551,Thành phố Hà Nội,Quận Tây Hồ,Phường Quảng An,Quảng An,0,10,180,11,1,2022-03-17 00:00:00,tây hồ,tây hồ_quảng an,148873,150889,195272,0.451666667
+283,103552,Thành phố Hà Nội,Quận Tây Hồ,Phường Quảng An,Quảng An,0,10,190,10,1,2022-03-17 00:00:00,tây hồ,tây hồ_quảng an,148873,150889,195272,0.526315789
+284,103554,Thành phố Hà Nội,Quận Tây Hồ,Phường Quảng An,Quảng An,0,10,158.3,6.32,1,2022-03-17 00:00:00,tây hồ,tây hồ_quảng an,148873,150889,195272,0.469404223
+285,103555,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Khai Thái,Đất ở khu dân cư nông thôn (Xã Khai Thái),500,5,100,5,1,2022-03-17 00:00:00,phú xuyên,phú xuyên_khai thái,148873,151880,151974,0.015
+286,103556,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Khai Thái,Đất ở khu dân cư nông thôn (Xã Khai Thái),500,5,100,5,1,2022-03-17 00:00:00,phú xuyên,phú xuyên_khai thái,148873,151880,151974,0.015
+287,103557,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Khai Thái,Đất ở khu dân cư nông thôn (Xã Khai Thái),500,5,100,5,1,2022-03-17 00:00:00,phú xuyên,phú xuyên_khai thái,148873,151880,151974,0.015
+288,103558,Thành phố Hà Nội,Huyện Đông Anh,Xã Xuân Nộn,Chợ Kim đi qua UBND xã Xuân Nộn,1250,5,99.70000002,4.43,1,2022-03-17 00:00:00,đông anh,đông anh_xuân nộn,148873,151363,151462,0.026078235
+289,103559,Thành phố Hà Nội,Huyện Đông Anh,Xã Xuân Nộn,Chợ Kim đi qua UBND xã Xuân Nộn,1220,4,57.60000001,4.43,1,2022-03-17 00:00:00,đông anh,đông anh_xuân nộn,148873,151363,151462,0.026736111
+290,103560,Thành phố Hà Nội,Huyện Đông Anh,Xã Xuân Nộn,Chợ Kim đi qua UBND xã Xuân Nộn,1150,4,138.4,6.4,1,2022-03-17 00:00:00,đông anh,đông anh_xuân nộn,148873,151363,151462,0.020737926
+291,103564,Thành phố Hà Nội,Quận Ba Đình,Phường Đội Cấn,Đội Cấn,200,2.5,45,4,1,2022-03-18 00:00:00,ba đình,ba đình_đội cấn,148873,148874,195247,0.084391667
+292,103565,Thành phố Hà Nội,Quận Ba Đình,Phường Đội Cấn,Đội Cấn,150,2,35,3,1,2022-03-18 00:00:00,ba đình,ba đình_đội cấn,148873,148874,195247,0.081737143
+293,103566,Thành phố Hà Nội,Quận Ba Đình,Phường Đội Cấn,Đội Cấn,130,1.7,52,4,1,2022-03-18 00:00:00,ba đình,ba đình_đội cấn,148873,148874,195247,0.073307692
+294,103569,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Trung Hưng,Đường tránh Quốc lộ 32,360,5,70,5,1,2022-03-18 00:00:00,sơn tây,sơn tây_trung hưng,148873,150784,150881,0.024285714
+295,103570,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Trung Hưng,Đường tránh Quốc lộ 32,314,5,70,5,1,2022-03-18 00:00:00,sơn tây,sơn tây_trung hưng,148873,150784,150881,0.025733333
+296,103587,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Đại Thắng,Đất ở khu dân cư nông thôn (Xã Đại Thắng),1000,7,100,5,1,2022-03-18 00:00:00,phú xuyên,phú xuyên_đại thắng,148873,151880,151964,0.04
+297,103588,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên thôn,0,6,80,4.5,1,2022-03-18 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.075
+298,103589,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên thôn,0,6,80,4.5,1,2022-03-18 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.075
+299,103590,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên thôn,0,6,80,4.5,1,2022-03-18 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.075
+300,103591,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên thôn,0,6,98,4.5,2,2022-03-18 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.072
+301,103602,Thành phố Hà Nội,Huyện Quốc Oai,Xã Thạch Thán,Tỉnh lộ 421B,0,10,53.3,4.5,1,2022-03-17 00:00:00,quốc oai,quốc oai_thạch thán,148873,152080,152145,0.074380953
+302,103603,Thành phố Hà Nội,Huyện Gia Lâm,Xã Đình Xuyên,Dương Hà,150,2,66,4.2,1,2022-03-17 00:00:00,gia lâm,gia lâm_đình xuyên,148873,151480,151562,0.025
+303,103607,Thành phố Hà Nội,Huyện Quốc Oai,Thị trấn Quốc Oai,Tỉnh lộ 419,100,12,80,5,1,2022-03-17 00:00:00,quốc oai,quốc oai_quốc oai,148873,152080,152081,0.045
+304,103608,Thành phố Hà Nội,Huyện Quốc Oai,Thị trấn Quốc Oai,Tỉnh lộ 419,150,12,80,5,1,2022-03-17 00:00:00,quốc oai,quốc oai_quốc oai,148873,152080,152081,0.045
+305,103609,Thành phố Hà Nội,Huyện Quốc Oai,Thị trấn Quốc Oai,Tỉnh lộ 419,180,12,80,5,1,2022-03-17 00:00:00,quốc oai,quốc oai_quốc oai,148873,152080,152081,0.045
+306,103610,Thành phố Hà Nội,Huyện Quốc Oai,Thị trấn Quốc Oai,Tỉnh lộ 419,150,5,61.4,5.3,1,2022-03-17 00:00:00,quốc oai,quốc oai_quốc oai,148873,152080,152081,0.04275
+307,103611,Thành phố Hà Nội,Quận Long Biên,Phường Cự Khối,Bát Khối,450,1.8,40,4,1,2022-03-17 00:00:00,long biên,long biên_cự khối,148873,150530,195290,0.05
+308,103612,Thành phố Hà Nội,Quận Long Biên,Phường Cự Khối,Bát Khối,500,1.7,30,4,1,2022-03-17 00:00:00,long biên,long biên_cự khối,148873,150530,195290,0.051666667
+309,103613,Thành phố Hà Nội,Quận Long Biên,Phường Cự Khối,Bát Khối,400,2.5,30,3.8,1,2022-03-17 00:00:00,long biên,long biên_cự khối,148873,150530,195290,0.054523333
+310,103614,Thành phố Hà Nội,Quận Long Biên,Phường Cự Khối,Bát Khối,400,1.6,33,3.9,1,2022-03-17 00:00:00,long biên,long biên_cự khối,148873,150530,195290,0.053049844
+311,103615,Thành phố Hà Nội,Huyện Gia Lâm,Thị trấn Trâu Quỳ,Đường Ngô Xuân Quảng,600,2,80,4,1,2022-03-17 00:00:00,gia lâm,gia lâm_trâu quỳ,148873,151480,151490,0.03875
+312,103616,Thành phố Hà Nội,Huyện Gia Lâm,Thị trấn Trâu Quỳ,Đường Ngô Xuân Quảng,500,2.3,45.5,5,1,2022-03-17 00:00:00,gia lâm,gia lâm_trâu quỳ,148873,151480,151490,0.043846154
+313,103617,Thành phố Hà Nội,Huyện Gia Lâm,Thị trấn Trâu Quỳ,Đường Ngô Xuân Quảng,500,3.2,101,4,1,2022-03-17 00:00:00,gia lâm,gia lâm_trâu quỳ,148873,151480,151490,0.05049505
+314,103618,Thành phố Hà Nội,Huyện Gia Lâm,Thị trấn Trâu Quỳ,Đường Ngô Xuân Quảng,650,2,60,5,1,2022-03-17 00:00:00,gia lâm,gia lâm_trâu quỳ,148873,151480,151490,0.042107667
+315,103641,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Khai Thái,Đất ở khu dân cư nông thôn (Xã Khai Thái),500,5,116.3,12,1,2022-03-17 00:00:00,phú xuyên,phú xuyên_khai thái,148873,151880,151974,0.01575
+316,103651,Thành phố Hà Nội,Huyện Hoài Đức,Xã Kim Chung,Quốc lộ 32,600,8,75,5,1,2022-03-17 00:00:00,hoài đức,hòai đức_kim chung,148873,151598,195426,0.062519457
+317,103655,Thành phố Hà Nội,Huyện Thường Tín,Xã Nhị Khê,Quốc lộ 1A,0,10,80,5,1,2022-03-18 00:00:00,thường tín,thường tín_nhị khê,148873,152587,152645,0.065
+318,103667,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Đại Thắng,Đất ở khu dân cư nông thôn (Xã Đại Thắng),1000,7,100,5,1,2022-03-18 00:00:00,phú xuyên,phú xuyên_đại thắng,148873,151880,151964,0.04
+319,103668,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Đại Thắng,Đất ở khu dân cư nông thôn (Xã Đại Thắng),1000,7,100,5,1,2022-03-18 00:00:00,phú xuyên,phú xuyên_đại thắng,148873,151880,151964,0.04
+320,103669,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Đại Thắng,Đất ở khu dân cư nông thôn (Xã Đại Thắng),1000,7,78.4,5.4,1,2022-03-18 00:00:00,phú xuyên,phú xuyên_đại thắng,148873,151880,151964,0.04
+321,103693,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên thôn,0,5,120,10,1,2022-03-17 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.06
+322,103694,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên thôn,0,5,120,10,1,2022-03-17 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.06
+323,103695,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên thôn,0,5,120,10,1,2022-03-17 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.06
+324,103696,Thành phố Hà Nội,Huyện Ba Vì,Xã Phú Sơn,Đường QL 32,0,9,88.2,4.2,1,2022-03-17 00:00:00,ba vì,ba vì_phú sơn,148873,151065,151153,0.030612245
+325,103697,Thành phố Hà Nội,Huyện Ba Vì,Xã Phú Sơn,Đường QL 32,0,9,88.2,4.2,1,2022-03-17 00:00:00,ba vì,ba vì_phú sơn,148873,151065,151153,0.030612245
+326,103698,Thành phố Hà Nội,Huyện Ba Vì,Xã Phú Sơn,Đường QL 32,0,9,88.2,4.2,1,2022-03-17 00:00:00,ba vì,ba vì_phú sơn,148873,151065,151153,0.030612245
+327,103699,Thành phố Hà Nội,Huyện Ba Vì,Xã Phú Sơn,Đường QL 32,0,9,88.2,4.2,1,2022-03-17 00:00:00,ba vì,ba vì_phú sơn,148873,151065,151153,0.030612245
+328,103713,Thành phố Hà Nội,Quận Long Biên,Phường Gia Thụy,Nguyễn Văn Cừ,300,6,75,6.6,1,2022-03-17 00:00:00,long biên,long biên_gia thụy,148873,150530,195282,0.113533333
+329,103714,Thành phố Hà Nội,Quận Long Biên,Phường Gia Thụy,Nguyễn Văn Cừ,400,6.5,80,7.96,1,2022-03-17 00:00:00,long biên,long biên_gia thụy,148873,150530,195282,0.110062017
+330,103724,Thành phố Hà Nội,Quận Đống Đa,Phường Kim Liên,Phương Mai,300,10,120,9,1,2022-03-18 00:00:00,đống đa,đống đa_kim liên,148873,149387,195316,0.166666667
+331,103725,Thành phố Hà Nội,Quận Đống Đa,Phường Kim Liên,Phương Mai,300,10,130,5.5,1,2022-03-18 00:00:00,đống đa,đống đa_kim liên,148873,149387,195316,0.193076923
+332,103726,Thành phố Hà Nội,Quận Đống Đa,Phường Kim Liên,Phương Mai,200,10,181,15,1,2022-03-18 00:00:00,đống đa,đống đa_kim liên,148873,149387,195316,0.209944751
+333,103727,Thành phố Hà Nội,Huyện Gia Lâm,Xã Dương Hà,Dương Hà,250,2.3,65,4.2,1,2022-03-18 00:00:00,gia lâm,gia lâm_dương hà,148873,151480,151564,0.024615385
+334,103744,Thành phố Hà Nội,Huyện Thạch Thất,Xã Tân Xã,Đường liên xã,100,4,150,5,1,2022-03-18 00:00:00,thạch thất,thạch thất_tân,148873,152286,152367,0.0255
+335,103745,Thành phố Hà Nội,Huyện Thạch Thất,Xã Tân Xã,Đường liên xã,110,4,150,5,1,2022-03-18 00:00:00,thạch thất,thạch thất_tân,148873,152286,152367,0.0255
+336,103746,Thành phố Hà Nội,Huyện Thạch Thất,Xã Tân Xã,Đường liên xã,120,4,125,4,1,2022-03-18 00:00:00,thạch thất,thạch thất_tân,148873,152286,152367,0.02503
+337,103747,Thành phố Hà Nội,Huyện Ứng Hòa,Xã Minh Đức,Đường 428A,0,12,81,4.5,2,2022-03-18 00:00:00,ứng hòa,ứng hòa_minh đức,148873,152697,152774,0.03250813
+338,103753,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Phú Yên,Đường 428 a,0,3.5,387.5,28.5,1,2022-03-18 00:00:00,phú xuyên,phú xuyên_phú yên,148873,151880,151956,0.04151
+339,103754,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường liên thôn,0,5,100,5,1,2022-03-18 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.045
+340,103755,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường liên thôn,0,5,100,5,1,2022-03-18 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.045
+341,103756,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường liên thôn,0,5,100,5,1,2022-03-18 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.045
+342,103770,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên thôn,0,5,117,9.55,1,2022-03-17 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.06
+343,103781,Thành phố Hà Nội,Huyện Gia Lâm,Xã Ninh Hiệp,Đường Ninh Hiệp,450,2.8,105,6,1,2022-03-17 00:00:00,gia lâm,gia lâm_ninh hiệp,148873,151480,151554,0.076190476
+344,103782,Thành phố Hà Nội,Huyện Gia Lâm,Xã Ninh Hiệp,Đường Ninh Hiệp,400,2.8,101.7,5.65,1,2022-03-17 00:00:00,gia lâm,gia lâm_ninh hiệp,148873,151480,151554,0.07600618
+345,103795,Thành phố Hà Nội,Quận Thanh Xuân,Phường Khương Trung,Vương Thừa Vũ,0,10,110,4.2,1,2022-03-17 00:00:00,thanh xuân,thanh xuân_khương trung,148873,150965,195356,0.1888
+346,103812,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Đức Hòa,Đê Lương Phúc,1100,3.5,178,9.25,1,2022-03-21 00:00:00,sóc sơn,sóc sơn_đức hòa,148873,152186,152254,0.010955056
+347,103813,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Đức Hòa,Đê Lương Phúc,1150,4,120,6,1,2022-03-21 00:00:00,sóc sơn,sóc sơn_đức hòa,148873,152186,152254,0.010916667
+348,103814,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Đức Hòa,Đê Lương Phúc,1060,4,300,15,1,2022-03-21 00:00:00,sóc sơn,sóc sơn_đức hòa,148873,152186,152254,0.008466667
+349,103815,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Đức Hòa,Đê Lương Phúc,1080,4.1,360,21.54,1,2022-03-21 00:00:00,sóc sơn,sóc sơn_đức hòa,148873,152186,152254,0.008347831
+350,103834,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Tiên Dược,Quốc lộ 3,640,3.3,101,6,1,2022-03-21 00:00:00,sóc sơn,sóc sơn_tiên dược,148873,152186,152272,0.012746353
+351,103856,Thành phố Hà Nội,Quận Hà Đông,Phường Yên Nghĩa,Yên Lộ,100,2,39,3.5,1,2022-03-18 00:00:00,hà đông,hà đông_yên nghĩa,148873,149779,195409,0.046153846
+352,103857,Thành phố Hà Nội,Quận Hà Đông,Phường Yên Nghĩa,Yên Lộ,200,2.2,57.59999999,4.05,1,2022-03-18 00:00:00,hà đông,hà đông_yên nghĩa,148873,149779,195409,0.042881944
+353,103858,Thành phố Hà Nội,Quận Hà Đông,Phường Yên Nghĩa,Yên Lộ,350,1.75,42.80000001,3.57,1,2022-03-18 00:00:00,hà đông,hà đông_yên nghĩa,148873,149779,195409,0.042466922
+354,103921,Thành phố Hà Nội,Huyện Thạch Thất,Xã Dị Nậu,Đường liên thôn,72,2.8,48,4.1,1,2022-03-21 00:00:00,thạch thất,thạch thất_dị nậu,148873,152286,152349,0.028053333
+355,103924,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Tiên Dược,Quốc lộ 3,250,4,60.60000002,3.9,1,2022-03-21 00:00:00,sóc sơn,sóc sơn_tiên dược,148873,152186,152272,0.018811881
+356,103925,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Tiên Dược,Quốc lộ 3,330,3.5,68,4.1,1,2022-03-21 00:00:00,sóc sơn,sóc sơn_tiên dược,148873,152186,152272,0.018970588
+357,103926,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Tiên Dược,Quốc lộ 3,280,3,64,4,1,2022-03-21 00:00:00,sóc sơn,sóc sơn_tiên dược,148873,152186,152272,0.01765625
+358,103927,Thành phố Hà Nội,Huyện Gia Lâm,Xã Cổ Bi,Cổ Bi,250,2,47,5,1,2022-03-18 00:00:00,gia lâm,gia lâm_cổ bi,148873,151480,195367,0.034042553
+359,103928,Thành phố Hà Nội,Huyện Gia Lâm,Xã Cổ Bi,Cổ Bi,230,2.1,105,2.1,1,2022-03-18 00:00:00,gia lâm,gia lâm_cổ bi,148873,151480,195367,0.02867719
+360,103978,Thành phố Hà Nội,Huyện Gia Lâm,Xã Kim Lan,Đất ở khu dân cư nông thôn (Xã Kim Lan),700,2.8,203,7.5,1,2022-03-21 00:00:00,gia lâm,gia lâm_kim lan,148873,151480,151584,0.02364532
+361,103979,Thành phố Hà Nội,Huyện Gia Lâm,Xã Kim Lan,Đất ở khu dân cư nông thôn (Xã Kim Lan),700,2.7,270,7.7,2,2022-03-21 00:00:00,gia lâm,gia lâm_kim lan,148873,151480,151584,0.025981522
+362,103996,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Tiên Dược,Quốc lộ 3,200,3,63.6,4.66,1,2022-03-21 00:00:00,sóc sơn,sóc sơn_tiên dược,148873,152186,152272,0.01772113
+363,104005,Thành phố Hà Nội,Quận Đống Đa,Phường Văn Chương,Tôn Đức Thắng,300,1.5,32,3.6,1,2022-03-19 00:00:00,đống đa,đống đa_văn chương,148873,149387,195304,0.0630625
+364,104008,Thành phố Hà Nội,Huyện Thường Tín,Xã Thư Phú,DT427,400,4,216,8,1,2022-03-19 00:00:00,thường tín,thường tín_thư phú,148873,152587,152665,0.013806481
+365,104009,Thành phố Hà Nội,Huyện Thường Tín,Xã Thư Phú,DT427,700,2.9,354.7,14.9,1,2022-03-19 00:00:00,thường tín,thường tín_thư phú,148873,152587,152665,0.012022301
+366,104010,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên thôn,100,2.5,100,5,1,2022-03-19 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.015
+367,104011,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên thôn,20,2.5,124,13.08,2,2022-03-19 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.015205556
+368,104051,Thành phố Hà Nội,Huyện Quốc Oai,Xã Đại Thành,Đường Đại Thành,540,2.9,438.2,3.02,1,2022-03-21 00:00:00,quốc oai,quốc oai_đại thành,148873,152080,152163,0.014069815
+369,104088,Thành phố Hà Nội,Huyện Thường Tín,Xã Văn Tự,Quốc lộ 1A,50,3.3,88.19999999,5,2,2022-03-19 00:00:00,thường tín,thường tín_văn tự,148873,152587,152673,0.015646766
+370,104112,Thành phố Hà Nội,Huyện Thạch Thất,Xã Bình Yên,Đường 419,100,4,100,5,1,2022-03-21 00:00:00,thạch thất,thạch thất_bình yên,148873,152286,152365,0.026
+371,104113,Thành phố Hà Nội,Huyện Thạch Thất,Xã Bình Yên,Đường 419,100,4,100,5,1,2022-03-21 00:00:00,thạch thất,thạch thất_bình yên,148873,152286,152365,0.026
+372,104114,Thành phố Hà Nội,Huyện Thạch Thất,Xã Bình Yên,Đường 419,100,4,100,5,1,2022-03-21 00:00:00,thạch thất,thạch thất_bình yên,148873,152286,152365,0.026
+373,104144,Thành phố Hà Nội,Quận Ba Đình,Phường Đội Cấn,Đội Cấn,50,1.6,37.4,5.34,1,2022-03-18 00:00:00,ba đình,ba đình_đội cấn,148873,148874,195247,0.085579886
+374,104181,Thành phố Hà Nội,Huyện Thạch Thất,Xã Bình Yên,Đường 419,100,4,100,5,1,2022-03-21 00:00:00,thạch thất,thạch thất_bình yên,148873,152286,152365,0.026
+375,104188,Thành phố Hà Nội,Huyện Thường Tín,Xã Khánh Hà,Đường liên xã Khánh Hà- Đại Áng,100,2.3,100,5,1,2022-03-21 00:00:00,thường tín,thường tín_khánh hà,148873,152587,152679,0.012
+376,104189,Thành phố Hà Nội,Huyện Thường Tín,Xã Khánh Hà,Đường liên xã Khánh Hà- Đại Áng,600,1.6,156.6,6.69,2,2022-03-21 00:00:00,thường tín,thường tín_khánh hà,148873,152587,152679,0.009605421
+377,104194,Thành phố Hà Nội,Quận Hoàn Kiếm,Phường Hàng Bông,Hàng Bông,0,21,152,5,1,2022-03-21 00:00:00,hoàn kiếm,hòan kiếm_hàng bông,148873,150021,195264,0.626842105
+378,104195,Thành phố Hà Nội,Quận Hoàn Kiếm,Phường Hàng Bông,Hàng Bông,0,21,100,8,1,2022-03-21 00:00:00,hoàn kiếm,hòan kiếm_hàng bông,148873,150021,195264,0.61145
+379,104196,Thành phố Hà Nội,Quận Hoàn Kiếm,Phường Hàng Bông,Hàng Bông,0,21,162.5,4.75,1,2022-03-21 00:00:00,hoàn kiếm,hòan kiếm_hàng bông,148873,150021,195264,0.60540445
+380,104217,Thành phố Hà Nội,Quận Cầu Giấy,Phường Dịch Vọng Hậu,Phạm Tuấn Tài,50,7.5,55,6.2,1,2022-03-21 00:00:00,cầu giấy,cầu giấy_dịch vọng hậu,148873,149252,195295,0.258
+381,104218,Thành phố Hà Nội,Quận Cầu Giấy,Phường Dịch Vọng Hậu,Phạm Tuấn Tài,60,6,65,5,1,2022-03-21 00:00:00,cầu giấy,cầu giấy_dịch vọng hậu,148873,149252,195295,0.190230769
+382,104219,Thành phố Hà Nội,Quận Cầu Giấy,Phường Dịch Vọng Hậu,Phạm Tuấn Tài,50,6,45,4,2,2022-03-21 00:00:00,cầu giấy,cầu giấy_dịch vọng hậu,148873,149252,195295,0.218888889
+383,104220,Thành phố Hà Nội,Quận Cầu Giấy,Phường Dịch Vọng Hậu,Phạm Tuấn Tài,80,7.5,47.5,5,1,2022-03-21 00:00:00,cầu giấy,cầu giấy_dịch vọng hậu,148873,149252,195295,0.229044017
+384,104277,Thành phố Hà Nội,Quận Hà Đông,Phường Yên Nghĩa,Yên Lộ,100,4,43.3,4,1,2022-03-21 00:00:00,hà đông,hà đông_yên nghĩa,148873,149779,195409,0.064665127
+385,104278,Thành phố Hà Nội,Quận Hà Đông,Phường Yên Nghĩa,Yên Lộ,20,4,80.4,4,1,2022-03-21 00:00:00,hà đông,hà đông_yên nghĩa,148873,149779,195409,0.05615321
+386,104335,Thành phố Hà Nội,Huyện Hoài Đức,Xã Kim Chung,Quốc lộ 32,0,20,60,4,1,2022-03-21 00:00:00,hoài đức,hòai đức_kim chung,148873,151598,195426,0.125
+387,104336,Thành phố Hà Nội,Huyện Hoài Đức,Xã Kim Chung,Quốc lộ 32,0,20,46,4,1,2022-03-21 00:00:00,hoài đức,hòai đức_kim chung,148873,151598,195426,0.134782609
+388,104337,Thành phố Hà Nội,Huyện Hoài Đức,Xã Kim Chung,Quốc lộ 32,0,20,43.1,4.25,2,2022-03-21 00:00:00,hoài đức,hòai đức_kim chung,148873,151598,195426,0.118283126
+389,104345,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường liên thôn,150,5,100,5,1,2022-03-21 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.029
+390,104346,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường liên thôn,150,5,100,5,1,2022-03-21 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.029
+391,104347,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường liên thôn,150,5,100,5,1,2022-03-21 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.029
+392,104348,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường liên thôn,200,4,100,5.18,1,2022-03-21 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.029
+393,104370,Thành phố Hà Nội,Huyện Gia Lâm,Xã Cổ Bi,Cổ Bi,250,6,90,6,1,2022-03-21 00:00:00,gia lâm,gia lâm_cổ bi,148873,151480,195367,0.066666667
+394,104371,Thành phố Hà Nội,Huyện Gia Lâm,Xã Cổ Bi,Cổ Bi,200,6,130,7,2,2022-03-21 00:00:00,gia lâm,gia lâm_cổ bi,148873,151480,195367,0.072307692
+395,104372,Thành phố Hà Nội,Huyện Gia Lâm,Xã Cổ Bi,Cổ Bi,200,6,129,7,2,2022-03-21 00:00:00,gia lâm,gia lâm_cổ bi,148873,151480,195367,0.072093023
+396,104373,Thành phố Hà Nội,Huyện Gia Lâm,Xã Cổ Bi,Cổ Bi,200,6,169,15.3,3,2022-03-21 00:00:00,gia lâm,gia lâm_cổ bi,148873,151480,195367,0.070800238
+397,104391,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường liên thôn,100,2.3,100,5,1,2022-03-21 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.0135
+398,104437,Thành phố Hà Nội,Huyện Thạch Thất,Xã Kim Quan,Đường liên thôn,15,2.6,360,28,2,2022-03-20 00:00:00,thạch thất,thạch thất_kim quan,148873,152286,152345,0.0126
+399,104438,Thành phố Hà Nội,Huyện Thạch Thất,Xã Kim Quan,Đường liên thôn,46,2.46,258,9.81,1,2022-03-20 00:00:00,thạch thất,thạch thất_kim quan,148873,152286,152345,0.011512
+400,104460,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường liên thôn,50,2.3,136,4,1,2022-03-21 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.01185
+401,104487,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên xã,150,2,100,5,1,2022-03-20 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.0135
+402,104488,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên xã,150,2,100,5,1,2022-03-20 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.0135
+403,104489,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên xã,150,2,90,5,1,2022-03-20 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.014444444
+404,104490,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên xã,167,1.7,168,3,1,2022-03-20 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.010216667
+405,104507,Thành phố Hà Nội,Huyện Gia Lâm,Xã Ninh Hiệp,Đường Ninh Hiệp,450,2.2,67.40000001,3.92,1,2022-03-21 00:00:00,gia lâm,gia lâm_ninh hiệp,148873,151480,151554,0.052132479
+406,104514,Thành phố Hà Nội,Huyện Gia Lâm,Xã Dương Quang,Trục đường liên thôn,1000,3,68,4,1,2022-03-21 00:00:00,gia lâm,gia lâm_dương quang,148873,151480,151578,0.026470588
+407,104515,Thành phố Hà Nội,Huyện Gia Lâm,Xã Dương Quang,Trục đường liên thôn,1000,2.8,74,4,1,2022-03-21 00:00:00,gia lâm,gia lâm_dương quang,148873,151480,151578,0.025675676
+408,104557,Thành phố Hà Nội,Huyện Thanh Trì,Xã Vĩnh Quỳnh,Đường Vĩnh Quỳnh (từ giáp đường Phan Trọng Tuệ đến hết địa phận thị trấn Văn Điển),270,11,84,6.61,1,2022-03-18 00:00:00,thanh trì,thanh trì_vĩnh quỳnh,148873,152474,152557,0.063095238
+409,104558,Thành phố Hà Nội,Huyện Thanh Trì,Xã Vĩnh Quỳnh,Đường Vĩnh Quỳnh (từ giáp đường Phan Trọng Tuệ đến hết địa phận thị trấn Văn Điển),230,11,86,6.5,1,2022-03-18 00:00:00,thanh trì,thanh trì_vĩnh quỳnh,148873,152474,152557,0.059709302
+410,104559,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Phúc Tiến,Đường Quốc lộ 1A,0,10,120,5.5,1,2022-03-18 00:00:00,phú xuyên,phú xuyên_phúc tiến,148873,151880,151948,0.065416667
+411,104560,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Phúc Tiến,Đường Quốc lộ 1A,0,10,120,5.5,1,2022-03-18 00:00:00,phú xuyên,phú xuyên_phúc tiến,148873,151880,151948,0.065072222
+412,104574,Thành phố Hà Nội,Huyện Thạch Thất,Xã Dị Nậu,Đường liên xã,30,7.5,181,19.66,3,2022-03-20 00:00:00,thạch thất,thạch thất_dị nậu,148873,152286,152349,0.040220994
+413,104589,Thành phố Hà Nội,Huyện Gia Lâm,Xã Dương Quang,Trục đường liên thôn,1000,3,64,5,1,2022-03-21 00:00:00,gia lâm,gia lâm_dương quang,148873,151480,151578,0.0265625
+414,104590,Thành phố Hà Nội,Huyện Gia Lâm,Xã Dương Quang,Trục đường liên thôn,1000,2.5,51,4.55,1,2022-03-21 00:00:00,gia lâm,gia lâm_dương quang,148873,151480,151578,0.023698215
+415,104611,Thành phố Hà Nội,Huyện Đông Anh,Xã Xuân Nộn,Nguyên Khê (Đoạn từ ngã tư chợ Kim đến ngã tư Nguyên Khê),800,4,67,5,1,2022-03-21 00:00:00,đông anh,đông anh_xuân nộn,148873,151363,151462,0.028208955
+416,104612,Thành phố Hà Nội,Huyện Đông Anh,Xã Xuân Nộn,Nguyên Khê (Đoạn từ ngã tư chợ Kim đến ngã tư Nguyên Khê),850,4,107,5,1,2022-03-21 00:00:00,đông anh,đông anh_xuân nộn,148873,151363,151462,0.023364486
+417,104622,Thành phố Hà Nội,Huyện Thường Tín,Xã Hòa Bình,DT427B,2000,3,70,12,1,2022-03-21 00:00:00,thường tín,thường tín_hòa bình,148873,152587,152663,0.013
+418,104623,Thành phố Hà Nội,Huyện Thường Tín,Xã Hòa Bình,DT427B,1000,3.5,66,4.5,1,2022-03-21 00:00:00,thường tín,thường tín_hòa bình,148873,152587,152663,0.015227273
+419,104624,Thành phố Hà Nội,Huyện Thường Tín,Xã Hòa Bình,DT427B,2000,3.3,167,9.02,2,2022-03-21 00:00:00,thường tín,thường tín_hòa bình,148873,152587,152663,0.01266641
+420,104633,Thành phố Hà Nội,Huyện Thanh Trì,Xã Vĩnh Quỳnh,Đường Vĩnh Quỳnh (từ giáp đường Phan Trọng Tuệ đến hết địa phận thị trấn Văn Điển),250,15,80,11.52,3,2022-03-18 00:00:00,thanh trì,thanh trì_vĩnh quỳnh,148873,152474,152557,0.062996192
+421,104643,Thành phố Hà Nội,Huyện Thanh Oai,Xã Thanh Thùy,Đường ĐT 427B,0,10,90,5,1,2022-03-18 00:00:00,thanh oai,thanh oai_thanh thùy,148873,152384,152454,0.041244444
+422,104644,Thành phố Hà Nội,Huyện Thanh Oai,Xã Thanh Thùy,Đường ĐT 427B,0,10,95,5,1,2022-03-18 00:00:00,thanh oai,thanh oai_thanh thùy,148873,152384,152454,0.044
+423,104645,Thành phố Hà Nội,Huyện Thanh Oai,Xã Thanh Thùy,Đường ĐT 427B,0,10,110,5,1,2022-03-18 00:00:00,thanh oai,thanh oai_thanh thùy,148873,152384,152454,0.040909091
+424,104646,Thành phố Hà Nội,Huyện Thanh Oai,Xã Thanh Thùy,Đường ĐT 427B,0,10,75,5,1,2022-03-18 00:00:00,thanh oai,thanh oai_thanh thùy,148873,152384,152454,0.04344796
+425,104647,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường 419,350,6,100,5,1,2022-03-19 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.035
+426,104648,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường 419,350,6,100,6,1,2022-03-19 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.035
+427,104649,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường 419,350,6,100,5,1,2022-03-19 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.035
+428,104650,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường 419,300,6,138.4,6.23,1,2022-03-19 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.034183333
+429,104655,Thành phố Hà Nội,Huyện Thạch Thất,Xã Chàng Sơn,Đường liên thôn,0,4.5,250,11.2,1,2022-03-20 00:00:00,thạch thất,thạch thất_chàng sơn,148873,152286,152355,0.030380424
+430,104665,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường liên thôn,100,2.3,100,5,1,2022-03-21 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.013
+431,104666,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường liên thôn,50,2.3,132.8,2,1,2022-03-21 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.00949
+432,104667,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường liên thôn,100,2.3,100,5,1,2022-03-21 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.0135
+433,104668,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường liên thôn,150,2.3,94,4.64,1,2022-03-21 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.01343
+434,104683,Thành phố Hà Nội,Huyện Thạch Thất,Xã Dị Nậu,Đường liên thôn,0,3.5,294,20.8,1,2022-03-21 00:00:00,thạch thất,thạch thất_dị nậu,148873,152286,152349,0.015016667
+435,104687,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Phú Thịnh,Đường Quốc lộ 32,0,20,100,5,1,2022-03-21 00:00:00,sơn tây,sơn tây_phú thịnh,148873,150784,195417,0.043
+436,104737,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Phú Thịnh,Đường Quốc lộ 32,0,20,100,5,1,2022-03-21 00:00:00,sơn tây,sơn tây_phú thịnh,148873,150784,195417,0.043
+437,104738,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Phú Thịnh,Đường Quốc lộ 32,0,20,100,5,1,2022-03-21 00:00:00,sơn tây,sơn tây_phú thịnh,148873,150784,195417,0.043
+438,104739,Thành phố Hà Nội,Thị xã Sơn Tây,Phường Phú Thịnh,Đường Quốc lộ 32,0,20,112,5.6,1,2022-03-21 00:00:00,sơn tây,sơn tây_phú thịnh,148873,150784,195417,0.043
+439,104740,Thành phố Hà Nội,Huyện Đan Phượng,Xã Liên Trung,Đường đê Liên Trung,0,6,595,36.39,3,2022-03-21 00:00:00,đan phượng,đan phượng_liên trung,148873,151297,195423,0.029772665
+440,104792,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường 419,50,4.5,100,5,1,2022-03-20 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152343,0.035
+441,104792,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường 419,50,4.5,100,5,1,2022-03-20 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152287,0.035
+442,104793,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường 419,60,4.5,80,4,1,2022-03-20 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152343,0.03
+443,104793,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường 419,60,4.5,80,4,1,2022-03-20 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152287,0.03
+444,104794,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường 419,70,4.5,80,4,1,2022-03-20 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152343,0.03
+445,104794,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường 419,70,4.5,80,4,1,2022-03-20 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152287,0.03
+446,104795,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường 419,40,4.5,77.7,3.9,2,2022-03-20 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152343,0.029916667
+447,104795,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường 419,40,4.5,77.7,3.9,2,2022-03-20 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152287,0.029916667
+448,104796,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên thôn,50,4,75,5,1,2022-03-20 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.03
+449,104797,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên thôn,70,4,44,5.8,2,2022-03-20 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.031016666
+450,104818,Thành phố Hà Nội,Huyện Hoài Đức,Xã Kim Chung,Quốc lộ 32,700,6,64.80000001,4.8,1,2022-03-21 00:00:00,hoài đức,hòai đức_kim chung,148873,151598,195426,0.065308642
+451,104819,Thành phố Hà Nội,Huyện Hoài Đức,Xã Kim Chung,Quốc lộ 32,600,6,50,3.71,1,2022-03-21 00:00:00,hoài đức,hòai đức_kim chung,148873,151598,195426,0.06348
+452,104826,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phùng Xá,Đường liên thôn,50,2.3,90.30000001,4.31,1,2022-03-21 00:00:00,thạch thất,thạch thất_phùng xá,148873,152286,152359,0.013653333
+453,104833,Thành phố Hà Nội,Huyện Gia Lâm,Xã Ninh Hiệp,Đường Ninh Hiệp,1200,4.4,79.70000001,5.8,1,2022-03-21 00:00:00,gia lâm,gia lâm_ninh hiệp,148873,151480,151554,0.076340928
+454,104850,Thành phố Hà Nội,Huyện Phú Xuyên,Xã Phú Yên,Đường 428 a,0,7,80,5,1,2022-03-18 00:00:00,phú xuyên,phú xuyên_phú yên,148873,151880,151956,0.070567
+455,104862,Thành phố Hà Nội,Quận Hoàng Mai,Phường Thanh Trì,Nguyễn Khoái,210,2.1,62.20000001,5.8,1,2022-03-18 00:00:00,hoàng mai,hòang mai_thanh trì,148873,150379,195340,0.032424558
+456,104901,Thành phố Hà Nội,Huyện Hoài Đức,Xã Kim Chung,Quốc lộ 32,700,6,75,5,1,2022-03-21 00:00:00,hoài đức,hòai đức_kim chung,148873,151598,195426,0.0644
+457,104902,Thành phố Hà Nội,Huyện Hoài Đức,Xã Kim Chung,Quốc lộ 32,755,5.5,75,5,1,2022-03-21 00:00:00,hoài đức,hòai đức_kim chung,148873,151598,195426,0.063537623
+458,104920,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Tiên Dược,Quốc lộ 3,680,3.5,68,4,1,2022-03-21 00:00:00,sóc sơn,sóc sơn_tiên dược,148873,152186,152272,0.014411765
+459,104921,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Tiên Dược,Quốc lộ 3,700,3.5,50,4,1,2022-03-21 00:00:00,sóc sơn,sóc sơn_tiên dược,148873,152186,152272,0.0156
+460,104931,Thành phố Hà Nội,Huyện Thanh Trì,Thị trấn Văn Điển,phan trọng tuệ,300,4.5,35.9,6.33,1,2022-03-18 00:00:00,thanh trì,thanh trì_văn điển,148873,152474,152475,0.069035889
+461,104970,Thành phố Hà Nội,Huyện Gia Lâm,Thị trấn Trâu Quỳ,Lý Thánh Tông,200,3,52.79999999,3.7,1,2022-03-17 00:00:00,gia lâm,gia lâm_trâu quỳ,148873,151480,151490,0.046780303
+462,104980,Thành phố Hà Nội,Quận Đống Đa,Phường Quang Trung,Tây Sơn,280,6,61.8,8.45,2,2022-03-16 00:00:00,đống đa,đống đa_quang trung,148873,149387,195311,0.170792778
+463,104990,Thành phố Hà Nội,Huyện Thanh Trì,Xã Đại Áng,ĐẠI ÁNG,800,1.6,152,7,1,2022-03-17 00:00:00,thanh trì,thanh trì_đại áng,148873,152474,152565,0.015768188
+464,104993,Thành phố Hà Nội,Quận Long Biên,Phường Bồ Đề,Hoàng Như Tiếp,0,15,93,7.3,1,2022-03-16 00:00:00,long biên,long biên_bồ đề,148873,150530,195285,0.206344086
+465,104994,Thành phố Hà Nội,Quận Long Biên,Phường Bồ Đề,Hoàng Như Tiếp,0,15,115,5.5,1,2022-03-16 00:00:00,long biên,long biên_bồ đề,148873,150530,195285,0.148973913
+466,104995,Thành phố Hà Nội,Quận Long Biên,Phường Bồ Đề,Hoàng Như Tiếp,0,15,105,6,1,2022-03-16 00:00:00,long biên,long biên_bồ đề,148873,150530,195285,0.19252381
+467,104996,Thành phố Hà Nội,Quận Long Biên,Phường Bồ Đề,Hoàng Như Tiếp,0,15,109.85,17.64,1,2022-03-16 00:00:00,long biên,long biên_bồ đề,148873,150530,195285,0.178754383
+468,104999,Thành phố Hà Nội,Quận Đống Đa,Phường Hàng Bột,Tôn Đức Thắng,200,3.5,35,3.8,1,2022-03-16 00:00:00,đống đa,đống đa_hàng bột,148873,149387,195305,0.168
+469,105000,Thành phố Hà Nội,Quận Đống Đa,Phường Hàng Bột,Tôn Đức Thắng,300,3.5,39.5,3.44,1,2022-03-16 00:00:00,đống đa,đống đa_hàng bột,148873,149387,195305,0.165479033
+470,105041,Thành phố Hà Nội,Huyện Thường Tín,Thị trấn Thường Tín,Quốc lộ 1A,0,16,75.5,5,3,2022-03-17 00:00:00,thường tín,thường tín_thường tín,148873,152587,152588,0.105033113
+471,105042,Thành phố Hà Nội,Huyện Thường Tín,Thị trấn Thường Tín,Quốc lộ 1A,0,16,75.5,5,3,2022-03-17 00:00:00,thường tín,thường tín_thường tín,148873,152587,152588,0.107748344
+472,105046,Thành phố Hà Nội,Huyện Gia Lâm,Thị trấn Trâu Quỳ,Lý Thánh Tông,250,3,50,3.5,1,2022-03-17 00:00:00,gia lâm,gia lâm_trâu quỳ,148873,151480,151490,0.045
+473,105047,Thành phố Hà Nội,Huyện Gia Lâm,Thị trấn Trâu Quỳ,Lý Thánh Tông,200,2,62,4.05,1,2022-03-17 00:00:00,gia lâm,gia lâm_trâu quỳ,148873,151480,151490,0.037096774
+474,105048,Thành phố Hà Nội,Huyện Gia Lâm,Thị trấn Trâu Quỳ,Lý Thánh Tông,670,2,49,3.9,1,2022-03-17 00:00:00,gia lâm,gia lâm_trâu quỳ,148873,151480,151490,0.038493667
+475,105080,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Cầu Dền,Bạch Mai,0,15,55,5,2,2022-03-16 00:00:00,hai bà trưng,hai bà trưng_cầu dền,148873,149556,195331,0.321272727
+476,105081,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Cầu Dền,Bạch Mai,0,15,172,5.1,1,2022-03-16 00:00:00,hai bà trưng,hai bà trưng_cầu dền,148873,149556,195331,0.269290698
+477,105082,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Cầu Dền,Bạch Mai,0,15,48.2,4.18,1,2022-03-16 00:00:00,hai bà trưng,hai bà trưng_cầu dền,148873,149556,195331,0.30005522
+478,105099,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Mai Đình,Quốc lộ 3,1900,4,130,5.67,1,2022-03-16 00:00:00,sóc sơn,sóc sơn_mai đình,148873,152186,152244,0.014153846
+479,105100,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Mai Đình,Quốc lộ 3,1850,3.5,108,6,1,2022-03-16 00:00:00,sóc sơn,sóc sơn_mai đình,148873,152186,152244,0.014907407
+480,105101,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Mai Đình,Quốc lộ 3,1800,3.5,114,5.9,1,2022-03-16 00:00:00,sóc sơn,sóc sơn_mai đình,148873,152186,152244,0.014556562
+481,105124,Thành phố Hà Nội,Huyện Phúc Thọ,Xã Tam Thuấn,"Đường liên xã Thanh Đa, Tam Thuấn, Hát Môn: Từ giáp cầu Bảy Quốc lộ 32 đến giáp đường tỉnh lộ 417 địa phận Hát Môn",1000,4,66,4.5,2,2022-03-17 00:00:00,phúc thọ,phúc thọ_tam thuấn,148873,151998,152058,0.01969697
+482,105125,Thành phố Hà Nội,Huyện Phúc Thọ,Xã Tam Thuấn,"Đường liên xã Thanh Đa, Tam Thuấn, Hát Môn: Từ giáp cầu Bảy Quốc lộ 32 đến giáp đường tỉnh lộ 417 địa phận Hát Môn",1200,4,200,10,1,2022-03-17 00:00:00,phúc thọ,phúc thọ_tam thuấn,148873,151998,152058,0.018
+483,105126,Thành phố Hà Nội,Huyện Phúc Thọ,Xã Tam Thuấn,"Đường liên xã Thanh Đa, Tam Thuấn, Hát Môn: Từ giáp cầu Bảy Quốc lộ 32 đến giáp đường tỉnh lộ 417 địa phận Hát Môn",1100,4,71.1,4.5,1,2022-03-17 00:00:00,phúc thọ,phúc thọ_tam thuấn,148873,151998,152058,0.01649789
+484,105127,Thành phố Hà Nội,Huyện Phúc Thọ,Xã Tam Thuấn,"Đường liên xã Thanh Đa, Tam Thuấn, Hát Môn: Từ giáp cầu Bảy Quốc lộ 32 đến giáp đường tỉnh lộ 417 địa phận Hát Môn",1000,3.2,120,7.5,1,2022-03-17 00:00:00,phúc thọ,phúc thọ_tam thuấn,148873,151998,152058,0.013564761
+485,105128,Thành phố Hà Nội,Huyện Thường Tín,Thị trấn Thường Tín,DT427,400,7,75.50000001,5,2,2022-03-16 00:00:00,thường tín,thường tín_thường tín,148873,152587,152588,0.082781457
+486,105130,Thành phố Hà Nội,Huyện Thường Tín,Thị trấn Thường Tín,Quốc lộ 1A,400,7,75.5,5,2,2022-03-16 00:00:00,thường tín,thường tín_thường tín,148873,152587,152588,0.083774834
+487,105146,Thành phố Hà Nội,Huyện Thanh Oai,Xã Thanh Thùy,Đường liên xã,0,8,120,6,1,2022-03-16 00:00:00,thanh oai,thanh oai_thanh thùy,148873,152384,152454,0.042083333
+488,105178,Thành phố Hà Nội,Huyện Thường Tín,Xã Khánh Hà,Đường liên xã Khánh Hà- Đại Áng,700,4.7,80,4.5,1,2022-03-17 00:00:00,thường tín,thường tín_khánh hà,148873,152587,152679,0.035
+489,105179,Thành phố Hà Nội,Huyện Thường Tín,Xã Khánh Hà,Đường liên xã Khánh Hà- Đại Áng,650,4.7,77.6,4.5,1,2022-03-17 00:00:00,thường tín,thường tín_khánh hà,148873,152587,152679,0.032022015
+490,105188,Thành phố Hà Nội,Huyện Thạch Thất,Xã Thạch Xá,Đường liên thôn,133,6,90,5,1,2022-03-17 00:00:00,thạch thất,thạch thất_thạch xá,148873,152286,152357,0.031888889
+491,105199,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường liên thôn,100,5,90,5,2,2022-03-16 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152343,0.033333333
+492,105199,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường liên thôn,100,5,90,5,2,2022-03-16 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152287,0.033333333
+493,105200,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường liên thôn,100,5,90,5,2,2022-03-16 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152343,0.033333333
+494,105200,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường liên thôn,100,5,90,5,2,2022-03-16 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152287,0.033333333
+495,105201,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường liên thôn,100,5,96,6,2,2022-03-16 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152343,0.033333333
+496,105201,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường liên thôn,100,5,96,6,2,2022-03-16 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152287,0.033333333
+497,105202,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường liên thôn,110,5,124,22.29,2,2022-03-16 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152343,0.028222222
+498,105202,Thành phố Hà Nội,Huyện Thạch Thất,Thị trấn Liên Quan,Đường liên thôn,110,5,124,22.29,2,2022-03-16 00:00:00,thạch thất,thạch thất_liên quan,148873,152286,152287,0.028222222
+499,105208,Thành phố Hà Nội,Huyện Thanh Oai,Xã Thanh Thùy,Đường liên xã,0,8,74,4,1,2022-03-16 00:00:00,thanh oai,thanh oai_thanh thùy,148873,152384,152454,0.044594595
+500,105209,Thành phố Hà Nội,Huyện Thanh Oai,Xã Thanh Thùy,Đường liên xã,0,8,120,6,1,2022-03-16 00:00:00,thanh oai,thanh oai_thanh thùy,148873,152384,152454,0.04
+501,105210,Thành phố Hà Nội,Huyện Thanh Oai,Xã Thanh Thùy,Đường liên xã,0,8,163,7,2,2022-03-16 00:00:00,thanh oai,thanh oai_thanh thùy,148873,152384,152454,0.036950375
+502,105213,Thành phố Hà Nội,Huyện Thạch Thất,Xã Dị Nậu,Đường liên thôn,30,7.5,72,4,2,2022-03-16 00:00:00,thạch thất,thạch thất_dị nậu,148873,152286,152349,0.04
+503,105214,Thành phố Hà Nội,Huyện Thạch Thất,Xã Dị Nậu,Đường liên thôn,30,7.5,72,4,2,2022-03-16 00:00:00,thạch thất,thạch thất_dị nậu,148873,152286,152349,0.04
+504,105224,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Trương Định,Đại La,200,2,50,3.5,1,2022-03-16 00:00:00,hai bà trưng,hai bà trưng_trương định,148873,149556,195339,0.0758
+505,105225,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Trương Định,Đại La,400,2,59.19999999,11.48,1,2022-03-16 00:00:00,hai bà trưng,hai bà trưng_trương định,148873,149556,195339,0.078566757
+506,105245,Thành phố Hà Nội,Huyện Thanh Oai,Xã Thanh Thùy,Đường liên xã,0,8,89,3.98,2,2022-03-17 00:00:00,thanh oai,thanh oai_thanh thùy,148873,152384,152454,0.037497598
+507,105290,Thành phố Hà Nội,Quận Hoàng Mai,Phường Thanh Trì,Nguyễn Khoái,210,2,115.5,9.6,1,2022-03-16 00:00:00,hoàng mai,hòang mai_thanh trì,148873,150379,195340,0.032545294
+508,105346,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Bắc Phú,ĐT296,250,8,88,5.5,1,2022-03-16 00:00:00,sóc sơn,sóc sơn_bắc phú,148873,152186,152258,0.013295455
+509,105347,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Bắc Phú,ĐT296,200,8,220,10,2,2022-03-16 00:00:00,sóc sơn,sóc sơn_bắc phú,148873,152186,152258,0.011818182
+510,105348,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Bắc Phú,ĐT296,300,8,61.5,4.1,1,2022-03-16 00:00:00,sóc sơn,sóc sơn_bắc phú,148873,152186,152258,0.01300813
+511,105349,Thành phố Hà Nội,Huyện Sóc Sơn,Xã Bắc Phú,ĐT296,0,8,132.3,6.75,1,2022-03-16 00:00:00,sóc sơn,sóc sơn_bắc phú,148873,152186,152258,0.011562509
+512,105351,Thành phố Hà Nội,Huyện Thạch Thất,Xã Dị Nậu,Đường liên thôn,0,4.4,71,5.2,1,2022-03-16 00:00:00,thạch thất,thạch thất_dị nậu,148873,152286,152349,0.034968889
+513,105396,Thành phố Hà Nội,Huyện Gia Lâm,Xã Ninh Hiệp,Đường Ninh Hiệp,600,3,40.6,6.45,1,2022-03-17 00:00:00,gia lâm,gia lâm_ninh hiệp,148873,151480,151554,0.065786508
+514,105398,Thành phố Hà Nội,Huyện Phúc Thọ,Xã Liên Hiệp,Đường tỉnh lộ 421,15,5,54.3,9.1,2,2022-03-16 00:00:00,phúc thọ,phúc thọ_liên hiệp,148873,151998,152042,0.0245
+515,105402,Thành phố Hà Nội,Huyện Gia Lâm,Thị trấn Trâu Quỳ,Đường Ngô Xuân Quảng,50,4,53.5,3.6,1,2022-03-16 00:00:00,gia lâm,gia lâm_trâu quỳ,148873,151480,151490,0.063551402
+516,105403,Thành phố Hà Nội,Huyện Gia Lâm,Thị trấn Trâu Quỳ,Đường Ngô Xuân Quảng,60,4,36,3,2,2022-03-16 00:00:00,gia lâm,gia lâm_trâu quỳ,148873,151480,151490,0.066233611
+517,105426,Thành phố Hà Nội,Quận Tây Hồ,Phường Yên Phụ,An Dương,20,5,65,4,1,2022-03-17 00:00:00,tây hồ,tây hồ_yên phụ,148873,150889,195274,0.097384615
+518,105427,Thành phố Hà Nội,Quận Tây Hồ,Phường Yên Phụ,An Dương,50,5,96,8,1,2022-03-17 00:00:00,tây hồ,tây hồ_yên phụ,148873,150889,195274,0.096791667
+519,105428,Thành phố Hà Nội,Quận Tây Hồ,Phường Yên Phụ,An Dương,50,5,60,5,1,2022-03-17 00:00:00,tây hồ,tây hồ_yên phụ,148873,150889,195274,0.098666667
+520,105433,Thành phố Hà Nội,Huyện Đông Anh,Xã Vĩnh Ngọc,Đê tả Sông Hồng,250,5.5,100,4.95,1,2022-03-17 00:00:00,đông anh,đông anh_vĩnh ngọc,148873,151363,151450,0.0711
+521,105434,Thành phố Hà Nội,Huyện Đông Anh,Xã Vĩnh Ngọc,Đê tả Sông Hồng,150,5.5,100,5.7,1,2022-03-17 00:00:00,đông anh,đông anh_vĩnh ngọc,148873,151363,151450,0.0655
+522,105435,Thành phố Hà Nội,Huyện Đông Anh,Xã Vĩnh Ngọc,Đê tả Sông Hồng,220,5,70,5,1,2022-03-17 00:00:00,đông anh,đông anh_vĩnh ngọc,148873,151363,151450,0.067857143
+523,105436,Thành phố Hà Nội,Huyện Đông Anh,Xã Vĩnh Ngọc,Đê tả Sông Hồng,200,5.4,145,8.8,1,2022-03-17 00:00:00,đông anh,đông anh_vĩnh ngọc,148873,151363,151450,0.066121571
+524,105469,Thành phố Hà Nội,Huyện Phúc Thọ,Xã Liên Hiệp,Đường tỉnh lộ 421,250,3.4,269,16.46,2,2022-03-16 00:00:00,phúc thọ,phúc thọ_liên hiệp,148873,151998,152042,0.016433333
+525,105477,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Đồng Tâm,Giải Phóng,130,2.5,35,4,1,2022-03-16 00:00:00,hai bà trưng,hai bà trưng_đồng tâm,148873,149556,195333,0.09414
+526,105478,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Đồng Tâm,Giải Phóng,70,2.2,37,3.2,1,2022-03-16 00:00:00,hai bà trưng,hai bà trưng_đồng tâm,148873,149556,195333,0.093518919
+527,105479,Thành phố Hà Nội,Huyện Đông Anh,Xã Dục Tú,Dục Tú,1400,3,51,4,1,2022-03-16 00:00:00,đông anh,đông anh_dục tú,148873,151363,151468,0.024509804
+528,105480,Thành phố Hà Nội,Huyện Đông Anh,Xã Dục Tú,Dục Tú,1450,2.6,40,4.78,1,2022-03-16 00:00:00,đông anh,đông anh_dục tú,148873,151363,151468,0.02575
+529,105481,Thành phố Hà Nội,Huyện Đông Anh,Xã Dục Tú,Dục Tú,1250,2.3,50,4,1,2022-03-16 00:00:00,đông anh,đông anh_dục tú,148873,151363,151468,0.02
+530,105482,Thành phố Hà Nội,Huyện Đông Anh,Xã Dục Tú,Dục Tú,1300,2.3,81,5.8,1,2022-03-16 00:00:00,đông anh,đông anh_dục tú,148873,151363,151468,0.019015915
+531,105489,Thành phố Hà Nội,Quận Tây Hồ,Phường Yên Phụ,An Dương,20,5,65,4,1,2022-03-17 00:00:00,tây hồ,tây hồ_yên phụ,148873,150889,195274,0.097384615
+532,105490,Thành phố Hà Nội,Quận Tây Hồ,Phường Yên Phụ,An Dương,50,5,60,5,1,2022-03-17 00:00:00,tây hồ,tây hồ_yên phụ,148873,150889,195274,0.098666667
+533,105491,Thành phố Hà Nội,Quận Tây Hồ,Phường Yên Phụ,An Dương,20,3.5,43.3,3.3,1,2022-03-17 00:00:00,tây hồ,tây hồ_yên phụ,148873,150889,195274,0.098640903
+534,105514,Thành phố Hà Nội,Huyện Đan Phượng,Xã Tân Hội,Đường Tân Hội,0,5,112,5,1,2022-03-16 00:00:00,đan phượng,đan phượng_tân hội,148873,151297,151347,0.048125
+535,105536,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Đồng Tâm,Giải Phóng,50,2.2,43.8,5.8,1,2022-03-16 00:00:00,hai bà trưng,hai bà trưng_đồng tâm,148873,149556,195333,0.091978503
+536,105569,Thành phố Hà Nội,Huyện Đan Phượng,Xã Tân Hội,Đường Tân Hội,0,6,80,4,1,2022-03-16 00:00:00,đan phượng,đan phượng_tân hội,148873,151297,151347,0.0589
+537,105570,Thành phố Hà Nội,Huyện Đan Phượng,Xã Tân Hội,Đường Nhuệ Giang,0,6.9,74.80000001,4.64,1,2022-03-16 00:00:00,đan phượng,đan phượng_tân hội,148873,151297,151347,0.050497417
+538,105579,Thành phố Hà Nội,Quận Thanh Xuân,Phường Khương Mai,Hoàng Văn Thái,0,8,138.2,6.49,2,2022-03-16 00:00:00,thanh xuân,thanh xuân_khương mai,148873,150965,195357,0.214747069
+539,105580,Thành phố Hà Nội,Huyện Gia Lâm,Xã Đa Tốn,Đường Đa Tốn,20,4,90,6,2,2022-03-16 00:00:00,gia lâm,gia lâm_đa tốn,148873,151480,151568,0.052222222
+540,105581,Thành phố Hà Nội,Huyện Gia Lâm,Xã Đa Tốn,Đường Đa Tốn,100,4,70,4.1,1,2022-03-16 00:00:00,gia lâm,gia lâm_đa tốn,148873,151480,151568,0.042857143
+541,105582,Thành phố Hà Nội,Huyện Gia Lâm,Xã Đa Tốn,Đường Đa Tốn,50,3,46.6,3.5,1,2022-03-16 00:00:00,gia lâm,gia lâm_đa tốn,148873,151480,151568,0.049356223
+542,105583,Thành phố Hà Nội,Huyện Gia Lâm,Xã Đa Tốn,Đường Đa Tốn,30,4.5,70,3.4,1,2022-03-16 00:00:00,gia lâm,gia lâm_đa tốn,148873,151480,151568,0.036446374
+543,105608,Thành phố Hà Nội,Huyện Thạch Thất,Xã Chàng Sơn,Đường liên thôn,0,6,94,7.9,1,2022-03-16 00:00:00,thạch thất,thạch thất_chàng sơn,148873,152286,152355,0.08563522
+544,105623,Thành phố Hà Nội,Huyện Quốc Oai,Xã Cấn Hữu,Tỉnh lộ 421B,1150,7,174,9.51,2,2022-03-17 00:00:00,quốc oai,quốc oai_cấn hữu,148873,152080,152151,0.009025892
+545,105644,Thành phố Hà Nội,Quận Cầu Giấy,Phường Trung Hoà,Nguyễn Quốc Trị,0,17,105,6.5,1,2022-03-16 00:00:00,cầu giấy,cầu giấy_trung hòa,148873,149252,195298,0.345790476
+546,105645,Thành phố Hà Nội,Quận Cầu Giấy,Phường Trung Hoà,Nguyễn Quốc Trị,0,17,104,6.5,1,2022-03-16 00:00:00,cầu giấy,cầu giấy_trung hòa,148873,149252,195298,0.317091346
+547,105646,Thành phố Hà Nội,Quận Cầu Giấy,Phường Trung Hoà,Nguyễn Quốc Trị,0,17,100,6.5,1,2022-03-16 00:00:00,cầu giấy,cầu giấy_trung hòa,148873,149252,195298,0.320175
+548,105648,Thành phố Hà Nội,Quận Long Biên,Phường Phúc Lợi,Chu Huy Mân,300,13,400,13,1,2022-03-16 00:00:00,long biên,long biên_phúc lợi,148873,150530,195284,0.2122325
+549,105649,Thành phố Hà Nội,Quận Long Biên,Phường Phúc Lợi,Chu Huy Mân,350,13,359,10.5,1,2022-03-16 00:00:00,long biên,long biên_phúc lợi,148873,150530,195284,0.214729805
+550,105674,Thành phố Hà Nội,Huyện Chương Mỹ,Thị trấn Xuân Mai,Đường Hồ Chí Minh,200,5,65,5,1,2022-03-17 00:00:00,chương mỹ,chương mỹ_xuân mai,148873,151179,151180,0.056923077
+551,105675,Thành phố Hà Nội,Huyện Chương Mỹ,Thị trấn Xuân Mai,Đường Hồ Chí Minh,200,5,70,6,2,2022-03-17 00:00:00,chương mỹ,chương mỹ_xuân mai,148873,151179,151180,0.06
+552,105676,Thành phố Hà Nội,Huyện Chương Mỹ,Thị trấn Xuân Mai,Đường Hồ Chí Minh,200,5,70,6,2,2022-03-17 00:00:00,chương mỹ,chương mỹ_xuân mai,148873,151179,151180,0.06
+553,105689,Thành phố Hà Nội,Huyện Gia Lâm,Xã Đa Tốn,Quốc lộ 5B,800,13,150,8.35,1,2022-03-16 00:00:00,gia lâm,gia lâm_đa tốn,148873,151480,151568,0.176900667
+554,105737,Thành phố Hà Nội,Huyện Thường Tín,Xã Nhị Khê,Đường liên xã Nhị Khê,70,5,60,4,1,2022-03-17 00:00:00,thường tín,thường tín_nhị khê,148873,152587,152645,0.031
+555,105757,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phú Kim,Đường tỉnh lộ 419,0,10,100,5,1,2022-03-16 00:00:00,thạch thất,thạch thất_phú kim,148873,152286,152341,0.035
+556,105758,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phú Kim,Đường tỉnh lộ 419,0,10,100,5,1,2022-03-16 00:00:00,thạch thất,thạch thất_phú kim,148873,152286,152341,0.035
+557,105769,Thành phố Hà Nội,Huyện Hoài Đức,Xã Vân Canh,Vân Canh,230,1.7,111.6,8.92,1,2022-03-16 00:00:00,hoài đức,hòai đức_vân canh,148873,151598,195427,0.02834655
+558,105774,Thành phố Hà Nội,Huyện Đông Anh,Xã Vĩnh Ngọc,Đường Võ Nguyên Giáp,160,3,76.5,5,1,2022-03-16 00:00:00,đông anh,đông anh_vĩnh ngọc,148873,151363,151450,0.082222222
+559,105775,Thành phố Hà Nội,Huyện Đông Anh,Xã Vĩnh Ngọc,Đường Võ Nguyên Giáp,400,3,59.1,4.15,1,2022-03-16 00:00:00,đông anh,đông anh_vĩnh ngọc,148873,151363,151450,0.065651438
+560,105776,Thành phố Hà Nội,Huyện Đông Anh,Xã Vĩnh Ngọc,Đường Võ Nguyên Giáp,450,3,50,3.7,1,2022-03-16 00:00:00,đông anh,đông anh_vĩnh ngọc,148873,151363,151450,0.0673
+561,105777,Thành phố Hà Nội,Huyện Đông Anh,Xã Vĩnh Ngọc,Đường Võ Nguyên Giáp,170,3,102.9,6,1,2022-03-16 00:00:00,đông anh,đông anh_vĩnh ngọc,148873,151363,151450,0.077763246
+562,105785,Thành phố Hà Nội,Huyện Thạch Thất,Xã Canh Nậu,Đường liên thôn,0,4,118,11.35,2,2022-03-16 00:00:00,thạch thất,thạch thất_canh nậu,148873,152286,152353,0.03512
+563,105804,Thành phố Hà Nội,Huyện Đông Anh,Xã Dục Tú,Đường Quốc lộ 3,1500,2.6,40,5,1,2022-03-16 00:00:00,đông anh,đông anh_dục tú,148873,151363,151468,0.02025
+564,105805,Thành phố Hà Nội,Huyện Đông Anh,Xã Dục Tú,Dục Tú,1550,3,51,4,1,2022-03-16 00:00:00,đông anh,đông anh_dục tú,148873,151363,151468,0.022745098
+565,105809,Thành phố Hà Nội,Huyện Thường Tín,Xã Khánh Hà,Đường liên xã Nhị Khê,700,4.7,80,4.5,1,2022-03-17 00:00:00,thường tín,thường tín_khánh hà,148873,152587,152679,0.035
+566,105810,Thành phố Hà Nội,Huyện Thường Tín,Xã Khánh Hà,Đường liên xã Nhị Khê,650,4.7,85.71999999,5,1,2022-03-17 00:00:00,thường tín,thường tín_khánh hà,148873,152587,152679,0.032138681
+567,105811,Thành phố Hà Nội,Huyện Thường Tín,Xã Nhị Khê,Đường liên xã Nhị Khê,50,5,90,5,1,2022-03-17 00:00:00,thường tín,thường tín_nhị khê,148873,152587,152645,0.029405926
+568,105813,Thành phố Hà Nội,Huyện Thường Tín,Xã Văn Tự,Quốc lộ 1A,0,15,142.5,15,1,2022-03-16 00:00:00,thường tín,thường tín_văn tự,148873,152587,152673,0.060604638
+569,105818,Thành phố Hà Nội,Quận Long Biên,Phường Phúc Đồng,Chu Huy Mân,200,6,105,5,1,2022-03-16 00:00:00,long biên,long biên_phúc đồng,148873,150530,195289,0.105085714
+570,105819,Thành phố Hà Nội,Quận Long Biên,Phường Phúc Đồng,Chu Huy Mân,80,11,62,4,1,2022-03-16 00:00:00,long biên,long biên_phúc đồng,148873,150530,195289,0.129032258
+571,105820,Thành phố Hà Nội,Quận Long Biên,Phường Phúc Đồng,Chu Huy Mân,100,11,65,4,1,2022-03-16 00:00:00,long biên,long biên_phúc đồng,148873,150530,195289,0.112307692
+572,105821,Thành phố Hà Nội,Quận Long Biên,Phường Phúc Đồng,Chu Huy Mân,50,11.5,90,4.63,1,2022-03-16 00:00:00,long biên,long biên_phúc đồng,148873,150530,195289,0.134721427
+573,105827,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phú Kim,Đường tỉnh lộ 419,0,10,62,4.15,1,2022-03-16 00:00:00,thạch thất,thạch thất_phú kim,148873,152286,152341,0.037096774
+574,105828,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phú Kim,Đường tỉnh lộ 419,0,10,100,5,1,2022-03-16 00:00:00,thạch thất,thạch thất_phú kim,148873,152286,152341,0.035080645
+575,105829,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phú Kim,Đường tỉnh lộ 419,0,10,100,5,1,2022-03-16 00:00:00,thạch thất,thạch thất_phú kim,148873,152286,152341,0.035
+576,105830,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phú Kim,Đường tỉnh lộ 419,0,10,100,5,1,2022-03-16 00:00:00,thạch thất,thạch thất_phú kim,148873,152286,152341,0.035
+577,105831,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phú Kim,Đường tỉnh lộ 419,0,10,62,4.1,1,2022-03-16 00:00:00,thạch thất,thạch thất_phú kim,148873,152286,152341,0.037096774
+578,105832,Thành phố Hà Nội,Huyện Thạch Thất,Xã Phú Kim,Đường tỉnh lộ 419,0,10,100,5,1,2022-03-16 00:00:00,thạch thất,thạch thất_phú kim,148873,152286,152341,0.035080645
+579,105833,Thành phố Hà Nội,Huyện Thạch Thất,Xã Dị Nậu,Đường liên thôn,0,4.4,72,5.15,1,2022-03-16 00:00:00,thạch thất,thạch thất_dị nậu,148873,152286,152349,0.035017778
+580,105837,Thành phố Hà Nội,Quận Ba Đình,Phường Trúc Bạch,Châu Long,0,10,105,5,1,2022-03-16 00:00:00,ba đình,ba đình_trúc bạch,148873,148874,195239,0.410342857
+581,105838,Thành phố Hà Nội,Quận Ba Đình,Phường Trúc Bạch,Châu Long,0,10,60,5.5,1,2022-03-16 00:00:00,ba đình,ba đình_trúc bạch,148873,148874,195239,0.463041667
+582,105850,Thành phố Hà Nội,Huyện Thanh Trì,Xã Đại Áng,Đường Vĩnh Quỳnh - Đại Áng Từ hết địa phận xã Vĩnh Quỳnh đến hết địa phận xã Đại Áng,200,3,33,3,1,2022-03-16 00:00:00,thanh trì,thanh trì_đại áng,148873,152474,152565,0.030663485
+583,105851,Thành phố Hà Nội,Huyện Thanh Trì,Xã Đại Áng,Đường Vĩnh Quỳnh - Đại Áng Từ hết địa phận xã Vĩnh Quỳnh đến hết địa phận xã Đại Áng,200,3,80,4.5,2,2022-03-16 00:00:00,thanh trì,thanh trì_đại áng,148873,152474,152565,0.030825
+584,105852,Thành phố Hà Nội,Huyện Thanh Trì,Xã Đại Áng,Đường Vĩnh Quỳnh - Đại Áng Từ hết địa phận xã Vĩnh Quỳnh đến hết địa phận xã Đại Áng,70,2.7,55.79999999,3.99,1,2022-03-16 00:00:00,thanh trì,thanh trì_đại áng,148873,152474,152565,0.028519239
+585,105854,Thành phố Hà Nội,Quận Long Biên,Phường Việt Hưng,Trần Danh Tuyên,300,13,90,6,1,2022-03-16 00:00:00,long biên,long biên_việt hưng,148873,150530,195281,0.213411111
+586,105855,Thành phố Hà Nội,Quận Long Biên,Phường Việt Hưng,Trần Danh Tuyên,350,13,90,6,1,2022-03-16 00:00:00,long biên,long biên_việt hưng,148873,150530,195281,0.241341111
+587,105856,Thành phố Hà Nội,Quận Long Biên,Phường Việt Hưng,Trần Danh Tuyên,300,13,90,6,1,2022-03-16 00:00:00,long biên,long biên_việt hưng,148873,150530,195281,0.222305556
+588,105911,Thành phố Hà Nội,Quận Hai Bà Trưng,Phường Đồng Tâm,Vọng,100,8,50,4.67,1,2022-03-16 00:00:00,hai bà trưng,hai bà trưng_đồng tâm,148873,149556,195333,0.171465645
